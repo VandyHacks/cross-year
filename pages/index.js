@@ -1,20 +1,22 @@
 import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
-import Navbar from "./components/navbar";
-import Footer from "./components/Footer";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 
-export default function Home() {
+import React from "react";
+
+const Home = () => {
 	return (
 		<div>
 			<Navbar />
 
 			{/* Logo */}
-			<div className="flex landing-section-one">
-				<img className="bigLogo" src="./images/big_logo.png" />
-			</div>
+			<div className="h-[100vh] bg-[url('../images/landing_section_one.svg')] text-blue-600"></div>
 
 			<Footer />
 		</div>
 	);
-}
+};
+
+export default Home;
