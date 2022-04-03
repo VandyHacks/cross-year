@@ -7,16 +7,16 @@ import Footer from "../components/Footer";
 import React from "react";
 
 const Home = () => {
-	return (
-		<div>
-			<Navbar />
+  return (
+    <div>
+      <Navbar />
 
-			{/* Logo */}
-			<div className="h-[100vh] bg-[url('../images/landing_section_one.svg')] text-blue-600"></div>
+      {/* Logo */}
+      <div className="h-[100vh] bg-[url('../images/landing_section_one.svg')] text-blue-600"></div>
 
-			<Footer />
-		</div>
-	);
+      <Footer />
+    </div>
+  );
 };
 
 export default Home;
