@@ -12,7 +12,11 @@ const Home = () => {
       <Navbar />
 
       {/* Logo */}
-      <div className="h-[100vh] bg-[url('../images/landing_section_one.svg')] text-blue-600"></div>
+      <div className="h-[100vh] -mt-12 md:mt-0 bg-[url('/svgs/landing_section_one.svg')]">
+        <div className="mx-auto h-[200px] w-[250px] pt-64 md:w-[342px] md:h-[285px] md:pt-32">
+          <Image src="/logos/big_logo.png" width={342} height={285} />
+        </div>
+      </div>
 
       <Footer />
     </div>
