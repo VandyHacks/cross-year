@@ -8,35 +8,34 @@ const about = () => {
 		<div>
 			<Navbar />
 
-			<div className="flex flex-col justify-center md:flex-row-reverse bg-[#b0cee3]">
-				<div className="h-full w-[20rem] mx-auto">
-					<Image
-						className="mx-auto"
-						alt="About Us"
-						src="/about_egg.svg"
-						height={400}
-						width={400}
-					/>
+			<div className="h-[40rem] flex flex-col-reverse md:flex-row justify-center w-screen bg-[#b0cee3]">
+				<div className="w-[100%] md:w-[55%] mx-auto text-[#28315A]">
+					<div className="text-center text-6xl py-10 bg-no-repeat bg-bottom bg-[url(/yellow_title.svg)]">
+						About
+					</div>
+					<div className="mt-[2rem] mx-[4rem] p-6 bg-[#28315A]/[0.1] rounded-3xl">
+						<p>
+							VandyHacks is an organization dedicated to fostering
+							hacker culture and building a computer science
+							community at Vanderbilt University! We accomplish
+							this by hosting an annual hackathon - a 36 hour
+							software development marathon during which attendees
+							think of an idea and build it - alongside regular
+							hack nights and study nights. The VandyHacks board
+							consists of organizers who spend months planning
+							these events in several different areas: Content,
+							Design, Development, Hacker Experience, Marketing,
+							Operations, and Sponsorship.
+						</p>
+					</div>
 				</div>
-				<div className="w-[80%] mx-auto">
-					<div className="text-center text-5xl py-10 bg-no-repeat bg-bottom bg-[url(/yellow_title.svg)]">
-						Our Story
-					</div>
-					<div
-						className="pt-10"
-						// style={{width: "65%", lineHeight: "170%", padding: "20px"}}
-						// width: 65%; line-height: 170%; padding: 20px; background-color:rgba(40, 49, 90, 0.1); border-radius: 25px;
-					>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-						Sed pharetra nulla ex, nec blandit sapien laoreet a.
-						Mauris a tellus egestas lacus vulputate venenatis in et
-						elit. Class aptent taciti sociosqu ad litora torquent
-						per conubia nostra, per inceptos himenaeos. Cras
-						pharetra vitae nisl vel varius. Pellentesque dapibus
-						mollis nisi, vel egestas tortor aliquet id. Nunc a
-						commodo elit. Etiam semper tellus ligula, eget
-						sollicitudin neque egestas vitae.
-					</div>
+				<div className="mx-auto w-[500px] h-[500px] md:w-[45%] md:h-full relative">
+					<Image
+						alt="About Us"
+						src="/svgs/about_egg.svg"
+						layout="fill"
+						objectFit="contain"
+					/>
 				</div>
 			</div>
 

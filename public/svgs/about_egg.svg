@@ -13,6 +13,6 @@
     </g>
     <defs>
         <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.928,488.046,-488.046,-1.928,473.935,137.703)"><stop offset="0" style="stop-color:rgb(40,49,90);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(176,206,227);stop-opacity:1"/></linearGradient>
-        <image id="_Image3" width="1440px" height="693px" xlink:href="./smile_people.png" />
+        <image id="_Image3" width="1440px" height="693px" href="/misc/vh_org.jpeg" />
     </defs>
 </svg>
