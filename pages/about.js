@@ -10,12 +10,12 @@ const about = () => {
 		<div className="text-[#28315A]">
 			<Navbar />
 
-			<div className="h-full flex flex-col-reverse md:flex-row items-center w-screen bg-[url(/misc/leaves.png)]">
+			<div className="h-full flex flex-col-reverse md:flex-row items-center w-screen bg-contain bg-center bg-[url(/misc/leaves.png)]">
 				<div className="w-[100%] md:w-[55%] mx-auto ">
 					<div className="text-center text-6xl pb-6 bg-no-repeat bg-bottom bg-[url(/yellow_title.svg)]">
 						About
 					</div>
-					<div className="mt-[2rem] text-lg mx-4 leading-7 p-3 md:text-xl md:mx-[4rem] md:leading-9 md:p-6 bg-[#28315A]/[0.1] rounded-3xl">
+					<div className="mt-[2rem] text-lg mx-4 leading-7 p-3 md:text-xl md:mx-[4rem] md:leading-9 md:p-6 md:bg-[#28315A]/[0.1] rounded-3xl">
 						<p>
 							We are an organization dedicated to fostering hacker
 							culture and building a computer science community at
