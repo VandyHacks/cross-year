@@ -15,7 +15,7 @@ const about = () => {
 					<div className="text-center text-6xl pb-6 bg-no-repeat bg-bottom bg-[url(/yellow_title.svg)]">
 						About
 					</div>
-					<div className="mt-[2rem] text-xl mx-[4rem] p-6 bg-[#28315A]/[0.1] rounded-3xl leading-9">
+					<div className="mt-[2rem] text-lg mx-4 leading-7 p-3 md:text-xl md:mx-[4rem] md:leading-9 md:p-6 bg-[#28315A]/[0.1] rounded-3xl">
 						<p>
 							We are an organization dedicated to fostering hacker
 							culture and building a computer science community at
