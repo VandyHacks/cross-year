@@ -27,7 +27,7 @@ const about = () => {
 						</p>
 					</div>
 				</div>
-				<div className="mx-auto w-[500px] h-[100%] md:w-[45%] relative center">
+				<div className="mx-auto w-[100%] h-[100%] md:w-[45%] relative center">
 					<AboutEgg />
 				</div>
 			</div>
