@@ -13,12 +13,12 @@ const Footer = () => {
 		<div className="w-full mt-10">
 			<FooterSquiggle className="mb-[-5px]" />
 			<div className="flex flex-row-reverse md:flex-row justify-center content-center md:justify-between px-[2rem] pt-[2rem] pb-[3rem] text-white bg-[#28315A]">
-				<div className="flex flex-col">
-					<p className="text-[3rem]">Contact Us</p>
+				<div className="">
+					<p className="text-md md:text-3xl">Contact Us</p>
 					<p>info [at] vandyhacks.org</p>
 					<p>sponsorship [at] vandyhacks.org</p>
 					<div className="flex flex-row pt-3">
-						<FacebookIcon />
+						<FacebookIcon className="" />
 						<InstagramIcon />
 						<TwitchIcon />
 						<YoutubeIcon />
@@ -26,7 +26,7 @@ const Footer = () => {
 						<TwitterIcon />
 					</div>
 				</div>
-				<div className="flex flex-col justify-center items-center pr-5">
+				<div className="md:flex flex-col hidden justify-center items-center pr-5">
 					<Image
 						src="/logos/medium_logo.png"
 						alt="Logo"
