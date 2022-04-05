@@ -4,6 +4,7 @@ import Footer from "../components/Footer";
 import Image from "next/image";
 import AboutEgg from "../public/svgs/about_egg.svg";
 import TopBar from "../public/svgs/top_bar_header.svg";
+import MemberShowcase from "../components/MemberShowcase";
 
 const about = () => {
 	return (
@@ -32,7 +33,7 @@ const about = () => {
 				</div>
 			</div>
 
-			<TopBar className="w-screen" />
+			<TopBar className="w-[100vw]" />
 
 			<div className="h-full text-center">
 				<div className="text-6xl py-5">Meet the Board</div>
@@ -56,6 +57,8 @@ const about = () => {
 					</div>
 				</div>
 			</div>
+
+			<MemberShowcase />
 
 			<Footer />
 		</div>
