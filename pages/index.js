@@ -5,6 +5,7 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Link from "next/link";
 import React from "react";
+import { Button } from "../components/Button";
 
 const Home = () => {
   return (
@@ -34,11 +35,7 @@ const Home = () => {
           <p>October 1 - 2</p>
           <p className="mb-6">Workshops, speakers, coffee, and friends!</p>
 
-          <div className="font-inter bg-slate-700 pl-3 pr-3 pb-4 pt-4 inline text-white border-0 rounded-lg m-auto shadow-inner drop-shadow-xl filter cursor-pointer">
-            <Link target="_blank" href="https://www.vandyhacks.org">
-              VandyHacks VIII
-            </Link>
-          </div>
+          <Button text="VandyHacks VIII" link="https://www.vandyhacks.org" />
         </div>
 
         <br />
