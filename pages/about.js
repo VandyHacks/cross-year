@@ -32,7 +32,7 @@ const about = () => {
 				</div>
 			</div>
 
-			<TopBar />
+			<TopBar className="w-screen" />
 
 			<div className="h-full text-center">
 				<div className="text-6xl py-5">Meet the Board</div>
