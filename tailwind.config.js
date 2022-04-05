@@ -5,9 +5,6 @@ module.exports = {
   ],
   theme: {
     extend: {},
-    fontFamily: {
-      inter: ["Inter"],
-    },
   },
-  plugins: [],
+  plugins: [require("tailwindcss-font-inter")],
 };

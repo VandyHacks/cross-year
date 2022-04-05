@@ -1201,6 +1201,11 @@
   "resolved" "https://registry.npmjs.org/@types/parse-json/-/parse-json-4.0.0.tgz"
   "version" "4.0.0"
 
+"@types/parse-unit@^1.0.1":
+  "integrity" "sha512-p6QazF9lsJKxD+l/jcPQSGthgFbtKQuNSOH48zdPCnItg2qrvKGwaDd5KRmdsC/qmJ20zGafQ/VzNtIfi7AfiA=="
+  "resolved" "https://registry.npmjs.org/@types/parse-unit/-/parse-unit-1.0.1.tgz"
+  "version" "1.0.1"
+
 "@typescript-eslint/parser@5.10.1":
   "integrity" "sha512-GReo3tjNBwR5RnRO0K2wDIDN31cM3MmDtgyQ85oAxAmC5K3j/g85IjP+cDfcqDsDDBf1HNKQAD0WqOYL8jXqUA=="
   "resolved" "https://registry.npmjs.org/@typescript-eslint/parser/-/parser-5.10.1.tgz"
@@ -2745,6 +2750,11 @@
     "json-parse-even-better-errors" "^2.3.0"
     "lines-and-columns" "^1.1.6"
 
+"parse-unit@^1.0.1":
+  "integrity" "sha1-fhu21b7zh0wo45JSaiVBFwKR7s8="
+  "resolved" "https://registry.npmjs.org/parse-unit/-/parse-unit-1.0.1.tgz"
+  "version" "1.0.1"
+
 "path-exists@^3.0.0":
   "integrity" "sha1-zg6+ql94yxiSXqfYENe1mwEP1RU="
   "resolved" "https://registry.npmjs.org/path-exists/-/path-exists-3.0.0.tgz"
@@ -3155,7 +3165,15 @@
     "picocolors" "^1.0.0"
     "stable" "^0.1.8"
 
-"tailwindcss@^3.0.23":
+"tailwindcss-font-inter@^3.0.1":
+  "integrity" "sha512-wN0uIB+OzQk8ItqFoEl/eQM4H05AgNbqlI++IDb5B4Fqz8imee2dJAy85jyARwTUUouMwdwdBjx7yxXf22CyCg=="
+  "resolved" "https://registry.npmjs.org/tailwindcss-font-inter/-/tailwindcss-font-inter-3.0.1.tgz"
+  "version" "3.0.1"
+  dependencies:
+    "@types/parse-unit" "^1.0.1"
+    "parse-unit" "^1.0.1"
+
+"tailwindcss@^2.0.0 || ^3.0.0", "tailwindcss@^3.0.23":
   "integrity" "sha512-+OZOV9ubyQ6oI2BXEhzw4HrqvgcARY38xv3zKcjnWtMIZstEsXdI9xftd1iB7+RbOnj2HOEzkA0OyB5BaSxPQA=="
   "resolved" "https://registry.npmjs.org/tailwindcss/-/tailwindcss-3.0.23.tgz"
   "version" "3.0.23"
