@@ -5,6 +5,7 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Link from "next/link";
 import React from "react";
+import HappeningNowEgg from "../public/svgs/happening_now.svg";
 import { Button } from "../components/Button";
 
 const Home = () => {
@@ -18,29 +19,21 @@ const Home = () => {
           <Image src="/logos/full_logo.png" width={342} height={285} />
         </div>
       </div>
+
+      {/* Happening Now / Current Events */}
       <div>
-        <br />
-        <br />
         <div className=" bg-no-repeat bg-center text-center bg-[url('/svgs/yellow_title.svg')] leading-4 h-16 text-3xl">
           Happening Now
         </div>
-        <div>
-          <object
-            className="block w-[50%] m-auto"
-            type="image/svg+xml"
-            data="/svgs/happening_now.svg"
-          ></object>
+        <div className="block w-[50%] m-auto">
+          <HappeningNowEgg />
         </div>
-        <div className="text-center">
+        <div className="text-center mb-28">
           <p>October 1 - 2</p>
           <p className="mb-6">Workshops, speakers, coffee, and friends!</p>
 
           <Button text="VandyHacks VIII" link="https://www.vandyhacks.org" />
         </div>
-
-        <br />
-        <br />
-        <br />
       </div>
       <Footer />
     </div>
