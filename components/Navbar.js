@@ -5,7 +5,7 @@ import Link from "next/link";
 const Navbar = () => {
   // TODO Make text color #FBF1BC and underlined when selected
   return (
-    <div className="bg-[#28315a] drop-shadow-xl filter shadow-md sticky flex justify-end shadow-sm text-xl px-3  font-semibold text-white">
+    <div className="bg-[#28315a] drop-shadow-xl filter shadow-md sticky flex justify-end text-xl px-3  font-semibold text-white">
       <div className="inline-block mr-auto mt-3 w-[40px] h-[40px]">
         <Link href="/">
           <Image
