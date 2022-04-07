@@ -3,7 +3,7 @@ import ShowcaseNavigationButton from "./ShowcaseNavigationButton";
 
 const ShowcaseNavigation = ({ teamName, setTeamName }) => {
 	return (
-		<div className="flex justify-center font-medium overflow-x-auto bg-blue-300">
+		<div className="flex justify-center font-medium overflow-x-auto">
 			<ShowcaseNavigationButton
 				committeeName="All"
 				setTeamName={setTeamName}
