@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-key */
 import React, { useState, useEffect } from "react";
 import ShowcaseNavigation from "./ShowcaseNavigation";
 import MemberCard from "./MemberCard";
@@ -9,26 +10,23 @@ const MemberShowcase = () => {
 	const [teamName, setTeamName] = useState("All");
 	const [teamList, setTeamList] = useState(memberList);
 
-	// useEffect(() => {
-	// const tempTeamList = memberList.filter((member) => {
-	// 	console.log("THIS IS MEMBER", member);
-	// 	member["team"].includes(teamName) || teamName === "All";
-	// });
-	// setTeamList(tempTeamList);
-	// console.log(teamList);
-	// }, [teamName]);
+	useEffect(() => {
+		const randomList = memberList.sort(() => 0.5 - Math.random());
+		const filteredList = randomList.filter(
+			(member) => teamName == "All" || member.team.includes(teamName)
+		);
+		setTeamList(filteredList);
+	}, [memberList, teamName]);
 
 	return (
 		<div className="my-20 text-center mx-auto w-[90%] bg-pink-200">
-			<ShowcaseNavigation teamName={teamName} />
+			<ShowcaseNavigation setTeamName={setTeamName} />
 
-			{/* TODO: loop through memberFiles and populate it */}
+			<p>{teamName}</p>
+
 			<div className="gap-y-36 justify-items-center pt-5 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
 				{teamList.map((member) => (
-					// eslint-disable-next-line react/jsx-key
 					<MemberCard memberData={member} />
-					// eslint-disable-next-line react/jsx-key
-					// <p>{member.name}</p>
 				))}
 			</div>
 		</div>
