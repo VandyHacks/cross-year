@@ -7,30 +7,38 @@ import Link from "next/link";
 import React from "react";
 import HappeningNowEgg from "../public/svgs/happening_now.svg";
 import { Button } from "../components/Button";
-
+import { MobileHappeningNow } from "../components/MobileHappeningNow";
+import BottomSBlue from "../public/svgs/blue_on_white_bottom.svg";
 const Home = () => {
   return (
     <div>
       <Navbar />
 
       {/* Logo */}
-      <div className="h-[100vh] -mt-12 md:mt-0 bg-[url('/svgs/landing_section_one.svg')]">
-        <div className="mx-auto h-[200px] w-[250px] pt-64 md:w-[342px] md:h-[285px] md:pt-32">
-          <Image src="/logos/full_logo.png" width={342} height={285} />
+      <div className="h-[60vh] md:h-[80vh] md:mt-0  bg-center  bg-[length:720px_500px] sm:bg-[length:1920px_100%] bg-[url('/svgs/landing_section_one_mobile.svg')] sm:bg-[url('/svgs/landing_section_one.svg')]">
+        <div className="mx-auto h-[280px] w-[300px] pt-24 md:w-[342px] md:h-[285px] md:pt-32">
+          <Image src="/logos/full_logo.png" width={684} height={570} />
         </div>
       </div>
 
       {/* Happening Now / Current Events */}
-      <div>
-        <div className=" bg-no-repeat bg-center text-center bg-[url('/svgs/yellow_title.svg')] leading-4 h-16 text-3xl">
+      <MobileHappeningNow className="absolute sm:hidden" />
+      <BottomSBlue className="-z-10 absolute mt-[-200px] w-full  sm:hidden" />
+
+      <div className="mt-10 pt-0 bg-white">
+        {/* box here with mobile stuff load if resolution is a certain size */}
+
+        <div className="mt-72 sm:mt-0 font-semibold bg-no-repeat bg-center text-center bg-[url('/svgs/yellow_title.svg')]  leading-4 h-16 text-3xl">
           Happening Now
         </div>
-        <div className="block w-[50%] m-auto">
+        <div className="block sm:w-[50%] w-0 m-auto">
           <HappeningNowEgg />
         </div>
         <div className="text-center mb-28">
-          <p>October 1 - 2</p>
-          <p className="mb-6">Workshops, speakers, coffee, and friends!</p>
+          <p className="font-bold text-lg">October 1 - October 2</p>
+          <p className="mb-6 text-base">
+            Workshops, speakers, coffee, and friends!
+          </p>
 
           <Button text="VandyHacks VIII" link="https://www.vandyhacks.org" />
         </div>

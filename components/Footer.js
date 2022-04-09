@@ -11,7 +11,7 @@ import TwitterIcon from "./icons/TwitterIcon";
 const Footer = () => {
   return (
     <div className="w-full mt-10">
-      <FooterSquiggle className="mb-[-5px]" />
+      <FooterSquiggle className="mb-[-5px] " />
       <div className="flex flex-row-reverse md:flex-row justify-center content-center md:justify-between px-[2rem] pt-[2rem] pb-[3rem] text-white bg-[#28315A]">
         <div className="text-center md:text-left">
           <p className="text-xl  md:text-3xl">Contact Us</p>
