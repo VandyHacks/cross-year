@@ -25,7 +25,7 @@ const MemberShowcase = () => {
 			<p>{teamName}</p>
 			{/* Add committee description */}
 
-			<div className="gap-y-10 justify-items-center pt-5 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
+			<div className="gap-y-10 justify-items-center pt-5 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
 				{teamList.map((member) => (
 					<MemberCard memberData={member} />
 				))}

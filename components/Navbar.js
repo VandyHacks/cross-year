@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
+import CollapsingNav from "./CollapsingNav";
 
 const Navbar = () => {
   // TODO Make text color #FBF1BC and underlined when selected
@@ -16,16 +17,17 @@ const Navbar = () => {
           />
         </Link>
       </div>
-      <div className="text-base m-[20px] hover:underline" id="about">
+      <div className="invisible sm:visible text-base m-[20px] hover:underline" id="about">
         <Link href="/about">
           <a>About Us</a>
         </Link>
       </div>
-      <div className="text-base m-[20px] hover:underline" id="events">
+      <div className="invisible sm:visible text-base m-[20px] hover:underline" id="events">
         <Link href="/events">
           <a>Events</a>
         </Link>
       </div>
+      <CollapsingNav />
     </div>
   );
 };
