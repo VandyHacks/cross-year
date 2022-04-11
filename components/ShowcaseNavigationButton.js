@@ -1,10 +1,17 @@
 import React from "react";
 
-const ShowcaseNavigationButton = ({ committeeName, setTeamName }) => {
+const ShowcaseNavigationButton = ({
+	committeeName,
+	setTeamName,
+	handleClick = () => {},
+}) => {
 	return (
 		<div
-			className="w-3/4 bg-none h-10 cursor-pointer hover:font-bold"
-			onClick={() => setTeamName(committeeName)}
+			className="cursor-pointer hover:font-bold select-none"
+			onClick={() => {
+				setTeamName(committeeName);
+				handleClick();
+			}}
 		>
 			{committeeName}
 		</div>
