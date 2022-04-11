@@ -7,7 +7,7 @@ const ShowcaseNavigationButton = ({
 }) => {
 	return (
 		<div
-			className="cursor-pointer hover:font-bold"
+			className="cursor-pointer hover:font-bold select-none"
 			onClick={() => {
 				setTeamName(committeeName);
 				handleClick();
