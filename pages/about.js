@@ -33,7 +33,7 @@ const about = () => {
 				</div>
 			</div>
 
-			<TopBar className="w-[100vw]" />
+			<TopBar className="fill-[#B0CEE3]" />
 
 			<div className="h-full text-center">
 				<div className="text-6xl py-5">Meet the Board</div>

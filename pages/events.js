@@ -28,6 +28,8 @@ const events = () => {
 				</div>
 			</div>
 
+			<TopBar className="fill-[#B0CEE3] scale-x-[-100%]" />
+
 			<Footer />
 		</div>
 	);
