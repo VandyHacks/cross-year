@@ -29,7 +29,7 @@ const Navbar = () => {
         </Link>
       </div>
     </div>
-    <CollapsingNav />
+    <CollapsingNav className="float-right bg-blue-600 text-white" />
     </>
   );
 };
