@@ -20,9 +20,11 @@ const MemberShowcase = () => {
 
 	return (
 		<div className="my-20 text-center mx-auto w-[90%]">
-			<ShowcaseNavigation setTeamName={setTeamName} />
+			<ShowcaseNavigation teamName={teamName} setTeamName={setTeamName} />
 
-			<p>{teamName}</p>
+			<div className="py-10">
+				Description of our wonderful {teamName} committee
+			</div>
 			{/* Add committee description */}
 
 			<div className="gap-y-10 justify-items-center pt-5 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
