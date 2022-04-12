@@ -27,7 +27,7 @@ const Home = () => {
       <MobileHappeningNow className="absolute sm:hidden" />
       <BottomSBlue className="-z-10 absolute mt-[-200px] w-full  sm:hidden" />
 
-      <div className="sm:mt-0 mt-72 pt-1 bg-white">
+      <div className="sm:mt-0 mt-60 pt-1 bg-white">
         {/* box here with mobile stuff load if resolution is a certain size */}
 
         <div className="w-[70%] sm:w-[100%] mx-auto mt-12 sm:mt-0 font-semibold bg-no-repeat bg-center text-center bg-[url('/svgs/yellow_title.svg')]  leading-4 h-16 text-2xl sm:text-3xl">
