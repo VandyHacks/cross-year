@@ -9,7 +9,7 @@ const KeepInTouch = () => {
 
       <div className="mt-7 flex flex-col justify-center items-center top-[calc(54vh + 1.2em)]">
         <form action="" id="submitForm">
-          <div className="text-center relative mt-[10px] w-[205px] sm:w-[305px] inline-block ">
+          <div className="text-center relative mt-[10px] w-[175px] sm:w-[305px] inline-block ">
             <input
               type="email"
               className="w-[100%] border-0 border-b-2 border-[#000] outline-0 text-[#000] px-1 bg-transparent transition"
