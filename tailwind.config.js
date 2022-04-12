@@ -5,6 +5,7 @@ module.exports = {
   ],
   theme: {
     screens: {
+      "1sm": "500px",
       sm: "640px",
       // => @media (min-width: 640px) { ... }
 
@@ -20,7 +21,6 @@ module.exports = {
       "2xl": "1536px",
       // => @media (min-width: 1536px) { ... }
       "3xl": "2000px",
-      "1sm": "500px",
     },
   },
   plugins: [require("tailwindcss-font-inter")],
