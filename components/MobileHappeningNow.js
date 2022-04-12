@@ -4,8 +4,9 @@ import Friends from "../public/misc/friends.jpg";
 import Image from "next/image";
 export const MobileHappeningNow = () => {
   return (
-    <div className="sm:hidden -z-10 absolute top-[40%]  w-full">
-      <Image src={Friends} width={600} height={800} />
+    <div className="sm:hidden -z-10 absolute top-[40%] w-full h-[600px] bg-cover bg-no-repeat bg-[url('/misc/friends.jpg')]">
+      {/* <Image className="contain" src={Friends} width={3648} height={5472} /> */}
+      <div className="absolute h-[200px] bg-white -mt-52"></div>
     </div>
   );
 };
