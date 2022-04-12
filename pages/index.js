@@ -30,7 +30,7 @@ const Home = () => {
       <div className="sm:mt-0 mt-72 pt-1 bg-white">
         {/* box here with mobile stuff load if resolution is a certain size */}
 
-        <div className="mt-12 sm:mt-0 font-semibold bg-no-repeat bg-center text-center bg-[url('/svgs/yellow_title.svg')]  leading-4 h-16 text-3xl">
+        <div className="w-[70%] sm:w-[100%] mx-auto mt-12 sm:mt-0 font-semibold bg-no-repeat bg-center text-center bg-[url('/svgs/yellow_title.svg')]  leading-4 h-16 text-2xl sm:text-3xl">
           Happening Now
         </div>
         <div className="block sm:w-[50%] w-0 m-auto">
@@ -53,7 +53,7 @@ const Home = () => {
           src="/svgs/landing_section_three_top.svg"
         />
         <div className="w-[100%] bg-[#fbf1bc]">
-          <div className="w-[100%] font-semibold bg-no-repeat bg-center text-center bg-[url('/svgs/blue_title.svg')]  leading-4 h-16 text-3xl">
+          <div className="w-[70%] sm:w-[100%] mx-auto font-semibold bg-no-repeat bg-center text-center bg-[url('/svgs/blue_title.svg')]  leading-4 h-16 text-2xl sm:text-3xl">
             Our Sponsors
           </div>
           <br />
@@ -73,7 +73,7 @@ const Home = () => {
       <div>
         <br />
         <br />
-        <div className="w-[100%] font-semibold bg-no-repeat bg-center text-center bg-[url('/svgs/yellow_title.svg')]  leading-4 h-16 text-3xl">
+        <div className="w-[70%] sm:w-[100%] mx-auto font-semibold bg-no-repeat bg-center text-center bg-[url('/svgs/yellow_title.svg')]  leading-4 h-16 text-2xl sm:text-3xl">
           Keep In Touch
         </div>
         <br />
