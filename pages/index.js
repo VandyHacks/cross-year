@@ -10,6 +10,7 @@ import { Button } from "../components/Button";
 import { MobileHappeningNow } from "../components/MobileHappeningNow";
 import BottomSBlue from "../public/svgs/blue_on_white_bottom.svg";
 import { ArrowCircleRightIcon } from "@heroicons/react/outline";
+import KeepInTouch from "../components/KeepInTouch";
 const Home = () => {
   return (
     <div>
@@ -70,35 +71,7 @@ const Home = () => {
         </div>
         <div className="-mt-5 bg-[url('/svgs/landing_section_three_bottom.svg')] bg-center bg-no-repeat h-[20vh] bg-[length:820px_100%] sm:bg-[length:100%]"></div>
       </div>
-      <div>
-        <br />
-        <br />
-        <div className="w-[70%] sm:w-[100%] mx-auto font-semibold bg-no-repeat bg-center text-center bg-[url('/svgs/yellow_title.svg')]  leading-4 h-16 text-2xl sm:text-3xl">
-          Keep In Touch
-        </div>
-        <br />
-        <div className="flex flex-col justify-center items-center top-[calc(54vh + 1.2em)]">
-          <form action="" id="submitForm">
-            <div className="text-center relative mt-[10px] w-[305px] inline-block ">
-              <input
-                type="email"
-                className="w-[100%] border-0 border-b-2 border-[#000] outline-0 text-[#000] px-1 bg-transparent transition"
-                placeholder="Get Email Updates"
-                name="email"
-                id="email"
-                required
-              />
-            </div>
-            <button id="submitForm" className="">
-              <ArrowCircleRightIcon className="h-7 p-0 -mb-2 ml-1" />
-            </button>
-          </form>
-        </div>
-
-        <div className="m-16  font-semibold text-center">
-          <p>Check back later for board applications!</p>
-        </div>
-      </div>
+      <KeepInTouch />
       <Footer />
     </div>
   );
