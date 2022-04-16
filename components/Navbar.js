@@ -6,10 +6,11 @@ import CollapsingNav from "./CollapsingNav";
 const Navbar = () => {
 	// TODO Make text color #FBF1BC and underlined when selected
 	return (
-		<div className="sticky top-0 z-50 bg-[#28315a] border-b-2 border-black drop-shadow-xl filter shadow-md sticky flex justify-end text-xl px-3  font-semibold text-white">
-			<div className="inline-block mr-auto mt-3 w-[40px] h-[40px]">
+		<div className="sticky top-0 z-50 bg-[#28315a] border-b-2 border-black drop-shadow-xl filter shadow-md flex justify-end text-xl px-3  font-semibold text-white">
+			<div className="inline-block ml-[40px] mr-auto mt-3 w-[40px] h-[40px]">
 				<Link href="/">
 					<Image
+						className="hover:cursor-pointer"
 						alt="Logo"
 						src="/logos/small_logo.png"
 						width={100}
