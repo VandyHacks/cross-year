@@ -5,7 +5,7 @@ exports.handler = async function (event) {
     try {
       const new_row = {
         parent: {
-          database_id: "aad17cb22b894772af4364dafc4b2444?v=9cf26403319449199bfff37c0d99a3ec",
+          database_id: "9cf26403319449199bfff37c0d99a3ec",
         },
         properties: {
           Email: {
