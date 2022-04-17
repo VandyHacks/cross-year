@@ -13,7 +13,7 @@ import { ArrowCircleRightIcon } from "@heroicons/react/outline";
 import KeepInTouch from "../components/KeepInTouch";
 const Home = () => {
   return (
-    <div className="text-pink-500">
+    <div className="text-[#28315A]">
       
       <Navbar />
 
