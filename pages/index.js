@@ -41,16 +41,23 @@ const Home = () => {
 				{/* box here with mobile stuff load if resolution is a certain size */}
 
 				<div className="w-[70%] sm:w-[100%] mx-auto sm:mt-0 font-semibold bg-no-repeat bg-center text-center bg-[url('/svgs/yellow_title.svg')]  leading-4 h-16 text-4xl sm:text-3xl">
-					Happening Now
+					Coming Soon
 				</div>
 				<div className="block sm:w-[50%] w-0 m-auto">
 					<HappeningNowEgg />
 				</div>
-				<div className="text-center mb-28">
-					<p className="font-bold text-lg">October 1 - October 2</p>
-					<p className="mb-6 text-base">
-						Stay tuned for our VH VIII Hackathon happening on
-						October 1st and 2nd 2022!
+				<div className="text-center mb-28 w-[80%] md:w-[70%] lg:w-[50%] mx-auto">
+					<p className="font-bold text-lg">October 21 - October 23</p>
+					<p className="m-4 text-base bold">Mark your calendar!</p>
+					<p>
+						VandyHacks IX Hackathon is happening this October, 2022!
+					</p>
+					<p>
+						Our mission is to empower the next generation to learn
+						and refine real-world skills through team-building and
+						tangible product creation. This year we will host our
+						event fully in-person in Vanderbilt&apos;s
+						state-of-the-art Innovation Pavilion on October 21-23.
 					</p>
 
 					{/* <Button
