@@ -35,7 +35,9 @@ const Home = () => {
 
 			{/* Happening Now / Current Events */}
 			<MobileHappeningNow className=" md:hidden" />
+
 			<BottomSBlue className="-z-10 absolute mt-[-280px] w-full  sm:hidden" />
+
 
 			<div className="z-10 sm:mt-0 mt-96 1sm:mt-96 md:mt-0 pt-1 bg-white">
 				{/* box here with mobile stuff load if resolution is a certain size */}
@@ -53,11 +55,10 @@ const Home = () => {
 						VandyHacks IX Hackathon is happening this October, 2022!
 					</p>
 					<p>
-						Our mission is to empower the next generation to learn
-						and refine real-world skills through team-building and
-						tangible product creation. This year we will host our
-						event fully in-person in Vanderbilt&apos;s
-						state-of-the-art Innovation Pavilion on October 21-23.
+
+						This hackathon will be fully in-person, and we have
+						prepared plethora of workshops and events to help you
+						get started even if it is your first Hackathon event!
 					</p>
 
 					{/* <Button
