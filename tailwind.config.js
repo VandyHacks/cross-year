@@ -23,5 +23,8 @@ module.exports = {
       "3xl": "2000px",
     },
   },
-  plugins: [require("tailwindcss-font-inter")],
+  plugins: [
+    require("tailwindcss-font-inter"),
+    require("tailwind-scrollbar-hide"),
+  ],
 };
