@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 
-const CollapsingNav = () => {
-  const [isOpen, setIsOpen] = useState(false);
-
+const CollapsingNav = ({ isOpen, setIsOpen }) => {
   return (
     <div className="visible sm:invisible pt-5 pr-1">
       <button
@@ -45,17 +43,6 @@ const CollapsingNav = () => {
                 d="M6 18L18 6M6 6l12 12"
               />
             </svg>
-
-            <div className="md:hidden" id="mobile-menu">
-              <a className="text-white hover:bg-gray-700  block px-3 py-2 rounded-md text-base font-medium">
-                {" "}
-                About{" "}
-              </a>
-              <a className="text-white hover:bg-gray-700  block px-3 py-2 rounded-md text-base font-medium">
-                {" "}
-                Events{" "}
-              </a>
-            </div>
           </div>
         )}
       </button>
