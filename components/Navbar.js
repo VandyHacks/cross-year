@@ -29,20 +29,21 @@ const Navbar = () => {
             <a>About Us</a>
           </Link>
         </div>
-        <div
-          className="invisible sm:visible text-base m-[20px] hover:underline"
-          id="hackathons"
-        >
-          <Link href="/hackathons">
-            <a>Past Hackathons</a>
-          </Link>
-        </div>
+
         <div
           className="invisible sm:visible text-base m-[20px] hover:underline"
           id="workshops"
         >
           <Link href="/workshops">
             <a>Workshops</a>
+          </Link>
+        </div>
+        <div
+          className="invisible sm:visible text-base m-[20px] hover:underline"
+          id="hackathons"
+        >
+          <Link href="/hackathons">
+            <a>Past Hackathons</a>
           </Link>
         </div>
         <CollapsingNav setIsOpen={setIsOpen} isOpen={isOpen} />
@@ -64,19 +65,20 @@ const Navbar = () => {
               {" "}
               About{" "}
             </a>
-            <a
-              href="/hackathons"
-              className="text-center text-white hover:bg-[#37406c]  block px-3 py-2 rounded-md text-base font-medium"
-            >
-              {" "}
-              Past Hackathons{" "}
-            </a>
+
             <a
               href="/workshops"
               className="text-center text-white hover:bg-[#37406c]  block px-3 py-2 rounded-md text-base font-medium"
             >
               {" "}
               Workshops{" "}
+            </a>
+            <a
+              href="/hackathons"
+              className="text-center text-white hover:bg-[#37406c]  block px-3 py-2 rounded-md text-base font-medium"
+            >
+              {" "}
+              Past Hackathons{" "}
             </a>
           </div>
         </div>
