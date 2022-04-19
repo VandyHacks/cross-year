@@ -39,7 +39,7 @@ const Navbar = () => {
         <CollapsingNav setIsOpen={setIsOpen} isOpen={isOpen} />
       </div>
       {isOpen ? (
-        <div className="z-40 sticky top-16 bg-[#28315a]">
+        <div className="z-40 fixed w-full top-16 bg-[#28315a]">
           <div className="md:hidden" id="mobile-menu">
             <a
               href="/"
