@@ -41,15 +41,24 @@ const Navbar = () => {
       {isOpen ? (
         <div className="z-40 sticky top-16 bg-[#28315a]">
           <div className="md:hidden" id="mobile-menu">
-            <a className="text-center text-white hover:bg-gray-700  block px-3 py-2 rounded-md text-base font-medium">
+            <a
+              href="/"
+              className="text-center text-white hover:bg-[#37406c]  block px-3 py-2 rounded-md text-base font-medium"
+            >
               {" "}
               Home{" "}
             </a>
-            <a className="text-center text-white hover:bg-gray-700  block px-3 py-2 rounded-md text-base font-medium">
+            <a
+              href="/about"
+              className="text-center text-white hover:bg-[#37406c]  block px-3 py-2 rounded-md text-base font-medium"
+            >
               {" "}
               About{" "}
             </a>
-            <a className="text-center text-white hover:bg-gray-700  block px-3 py-2 rounded-md text-base font-medium">
+            <a
+              href="/events"
+              className="text-center text-white hover:bg-[#37406c]  block px-3 py-2 rounded-md text-base font-medium"
+            >
               {" "}
               Events{" "}
             </a>
