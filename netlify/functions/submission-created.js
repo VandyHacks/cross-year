@@ -7,11 +7,11 @@ exports.handler = async function (event) {
 
     today = yyyy + '-' + mm + '-' + dd;
     const form = JSON.parse(event.body).payload.data;
-    const notion = new Client({ auth: "secret_GKrDwBeqQrVkc85joZPwl6CG1s1usCAixKmB2O3TMZK" }); //Replace this with integration secret token
+    const notion = new Client({ auth: "secret_QadiDv4dxiNN1LyLieHLUS3iZkBaC6ELEBpI74wJrg3" }); //Replace this with integration secret token
     try {
       const new_row = {
         parent: {
-          database_id: "aad17cb22b894772af4364dafc4b2444", //Replace this with the database id (found in url of notion page)
+          database_id: "7be99c45f6604dd2ad71a77829341c97", //Replace this with the database id (found in url of notion page)
         },
         properties: {
             Email: {
