@@ -17,15 +17,15 @@ const Footer = () => {
 					<p className="text-xl  md:text-3xl">Contact Us</p>
 					<div className="inline text-[#DADEE3]">
 						<p>info [at] vandyhacks.org</p>
-						<p>sponsorship [at] vandyhacks.org</p>
+						<p>sponsor [at] vandyhacks.org</p>
 					</div>
 					<div className="flex flex-row pt-3">
-						<FacebookIcon className="" />
 						<InstagramIcon />
-						<TwitchIcon />
 						<YoutubeIcon />
 						<GithubIcon />
+						<TwitchIcon />
 						<TwitterIcon />
+						<FacebookIcon />
 					</div>
 				</div>
 				<div className="md:flex flex-col hidden justify-center items-center pr-5">

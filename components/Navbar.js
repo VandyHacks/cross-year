@@ -4,14 +4,15 @@ import Link from "next/link";
 import CollapsingNav from "./CollapsingNav";
 
 const Navbar = () => {
-  const [isOpen, setIsOpen] = useState(false);
   // TODO Make text color #FBF1BC and underlined when selected
+  const [isOpen, setIsOpen] = useState(false);
   return (
     <>
-      <div className="bg-[#28315a] border-b-2 border-black drop-shadow-xl filter shadow-md sticky flex justify-end text-xl px-3  font-semibold text-white">
-        <div className="inline-block mr-auto mt-3 w-[40px] h-[40px]">
+      <div className="sticky top-0 z-50 bg-[#28315a] border-b-2 border-black drop-shadow-xl filter shadow-md flex justify-end text-xl px-3  font-semibold text-white">
+        <div className="inline-block ml-[40px] mr-auto mt-3 w-[40px] h-[40px]">
           <Link href="/">
             <Image
+              className="hover:cursor-pointer"
               alt="Logo"
               src="/logos/small_logo.png"
               width={100}
@@ -35,15 +36,16 @@ const Navbar = () => {
             <a>Events</a>
           </Link>
         </div>
-        <CollapsingNav isOpen={isOpen} setIsOpen={setIsOpen} />
+        <CollapsingNav setIsOpen={setIsOpen} isOpen={isOpen} />
       </div>
       {isOpen ? (
-        <div className="absolute bg-[#455294] w-full">
-          <div
-            className="flex flex-col justify-center mx-auto md:hidden"
-            id="mobile-menu"
-          >
-            <a className="text-center mx-auto text-white hover:bg-gray-700  block px-3 py-2 rounded-md text-base font-medium">
+        <div className="z-40 sticky top-16 bg-[#28315a]">
+          <div className="md:hidden" id="mobile-menu">
+            <a className="text-center text-white hover:bg-gray-700  block px-3 py-2 rounded-md text-base font-medium">
+              {" "}
+              Home{" "}
+            </a>
+            <a className="text-center text-white hover:bg-gray-700  block px-3 py-2 rounded-md text-base font-medium">
               {" "}
               About{" "}
             </a>

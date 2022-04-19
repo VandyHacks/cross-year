@@ -8,7 +8,7 @@ const KeepInTouch = () => {
       </div>
 
       <div className="mt-7 flex flex-col justify-center items-center top-[calc(54vh + 1.2em)]">
-        <form action="" id="submitForm">
+      <form name="contact" method="POST" data-netlify="true">
           <div className="text-center relative mt-[10px] w-[175px] sm:w-[305px] inline-block ">
             <input
               type="email"
@@ -19,9 +19,10 @@ const KeepInTouch = () => {
               required
             />
           </div>
-          <button id="submitForm" className="">
+          <button id="submitForm" className="" type="submit">
             <ArrowCircleRightIcon className="h-7 p-0 -mb-2 ml-1" />
           </button>
+          <input type="hidden" name="form-name" value="contact" />
         </form>
       </div>
 
