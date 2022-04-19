@@ -5,8 +5,9 @@ import Image from "next/image";
 import AboutEgg from "../public/svgs/about_egg.svg";
 import TopBar from "../public/svgs/top_bar_header.svg";
 import MemberShowcase from "../components/MemberShowcase";
+import KeepInTouch from "../components/KeepInTouch";
 
-const about = () => {
+const About = () => {
   return (
     <div className="text-[#28315A]">
       <Navbar />
@@ -57,10 +58,10 @@ const about = () => {
       </div>
 
       <MemberShowcase />
-
+      <KeepInTouch />
       <Footer />
     </div>
   );
 };
 
-export default about;
+export default About;

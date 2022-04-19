@@ -4,8 +4,9 @@ import Footer from "../components/Footer";
 import AboutEgg from "../public/svgs/about_egg.svg";
 import TopBar from "../public/svgs/top_bar_header.svg";
 import EventShowcase from "../components/EventShowcase";
+import KeepInTouch from "../components/KeepInTouch";
 
-const events = () => {
+const Hackathons = () => {
   return (
     <div className="text-[#28315A]">
       <Navbar />
@@ -19,10 +20,10 @@ const events = () => {
         <EventShowcase />
       </div>
       <TopBar className="fill-[#B0CEE3]" />
-
+      <KeepInTouch />
       <Footer />
     </div>
   );
 };
 
-export default events;
+export default Hackathons;
