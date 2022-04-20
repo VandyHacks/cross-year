@@ -1,9 +1,10 @@
 import React from "react";
 import Image from "next/image";
+import { Button } from "./Button";
 export const WorkshopCard = ({ workshopData }) => {
   const { name, description, imgUrl, link } = workshopData;
   return (
-    <div className="bg-white text-xs  w-[360px] h-[480px] text-left rounded-3xl shadow-xl overflow-hidden hover:scale-[105%] transition duration-200">
+    <div className="relative bg-white text-xs  w-[360px] h-[480px] text-left rounded-3xl shadow-xl overflow-hidden hover:scale-[105%] transition duration-200">
       <Image
         className=" transition duration-200 bg-[#28315A]"
         src={imgUrl}
@@ -17,11 +18,11 @@ export const WorkshopCard = ({ workshopData }) => {
       <div className="py-1 px-5 overflow-scroll scrollbar-hide">
         <div className="inline text-base">{description}</div>
       </div>
-
-      {/* <div className="py-1 px-2 group-hover:translate-y-[-240px] transition duration-200">
-      <div className="font-bold inline">Fun fact: </div>
-      {funFact}
-  </div> */}
+      {link.length > 0 ? (
+        <div className="scale-[60%] text-base absolute bottom-0 right-0 pb-6 pr-3">
+          <Button text="See more!" link={link} />
+        </div>
+      ) : null}
     </div>
   );
 };
