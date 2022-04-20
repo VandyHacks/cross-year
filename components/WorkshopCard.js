@@ -12,17 +12,17 @@ export const WorkshopCard = ({ workshopData }) => {
         width={360}
         height={240}
       />
+      {link.length > 0 ? (
+        <div className="scale-[80%] text-sm absolute bottom-[0%] right-0 pb-6 pr-1">
+          <Button text="See more!" link={link} />
+        </div>
+      ) : null}
       <div className="pt-2 px-5 transition duration-200">
         <div className="font-bold inline text-bold text-2xl">{name} </div>
       </div>
       <div className="py-1 px-5 overflow-scroll scrollbar-hide">
         <div className="inline text-base">{description}</div>
       </div>
-      {link.length > 0 ? (
-        <div className="scale-[60%] text-base absolute bottom-0 right-0 pb-6 pr-3">
-          <Button text="See more!" link={link} />
-        </div>
-      ) : null}
     </div>
   );
 };
