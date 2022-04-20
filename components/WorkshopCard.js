@@ -6,7 +6,7 @@ export const WorkshopCard = ({ workshopData }) => {
     <div className="text-xs  w-[360px] h-[480px] text-left rounded-3xl shadow-xl overflow-hidden hover:scale-[105%] transition duration-200">
       <Image
         className=" transition duration-200 bg-[#28315A]"
-        src={`${imgUrl}`}
+        src={imgUrl}
         alt={name}
         width={360}
         height={240}
