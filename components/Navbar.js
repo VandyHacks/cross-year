@@ -9,7 +9,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
     <>
-      <div className="sticky top-0 z-50 bg-[#28315a] border-b-2 border-black drop-shadow-xl filter shadow-md flex justify-end text-xl px-3  font-semibold text-white">
+      <div className="sticky pb-4 top-0 z-50 bg-[#28315a] border-b-2 border-black drop-shadow-xl filter shadow-md flex justify-end text-xl px-3  font-semibold text-white">
         <div className="inline-block ml-[8px] sm:ml-[40px] mr-auto mt-3 w-[40px] h-[40px]">
           <Link href="/">
             <Image
@@ -22,7 +22,7 @@ const Navbar = () => {
           </Link>
         </div>
         <div
-          className="invisible sm:visible text-base m-[20px] hover:underline"
+          className="hidden sm:visible text-base m-[20px] hover:underline"
           id="about"
         >
           <Link href="/about">
@@ -31,7 +31,7 @@ const Navbar = () => {
         </div>
 
         <div
-          className="invisible sm:visible text-base m-[20px] hover:underline"
+          className="hidden sm:visible text-base m-[20px] hover:underline"
           id="workshops"
         >
           <Link href="/workshops">
@@ -39,7 +39,7 @@ const Navbar = () => {
           </Link>
         </div>
         <div
-          className="invisible sm:visible text-base m-[20px] hover:underline"
+          className="hidden sm:visible text-base m-[20px] hover:underline"
           id="hackathons"
         >
           <Link href="/hackathons">
@@ -82,9 +82,7 @@ const Navbar = () => {
             </a>
           </div>
         </div>
-      ) : (
-        <div></div>
-      )}
+      ) : null}
     </>
   );
 };
