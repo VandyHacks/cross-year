@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Blockchain Workshop",
+		"description": "Curious about blockchain development? VandyHacks and Vanderbilt Blockchain are hosting a workshop together to teach you everything you need to know about starting your blockchain development career!",
+		"imgUrl": "/workshops/blockchain.jpeg",
+		"link": ""
+	},
+	{
+		"name": "Data Science 1010101",
+		"description": "Data science is a rapidly growing field crucial to any modern-day company's success, which means it's also important to us college kids!",
+		"imgUrl": "/workshops/datascience.jpeg",
+		"link": ""
+	},
+	{
+		"name": "The Power of LaTeX: From Research Papers to Resumes",
+		"description": "If you haven’t heard of LaTex before, all the more reason to come to our workshop! LaTex is a hugely popular tool for writing professional documents in academia. It's great for students who have to write everything from research papers to resumes.",
+		"imgUrl": "/workshops/datascience.jpeg",
+		"link": ""
+	},
+	{
+		"name": "Full Stack Development Workshop #1",
+		"description": "Learn how to build a Full Stack Application with us! This workshop introduces you to web development. No prior experience needed!",
+		"imgUrl": "/workshops/fullstack.jpeg",
+		"link": "https://www.youtube.com/watch?v=axmW8t08s4c"
+	},
+	{
+		"name": "Full Stack Development Workshop #2",
+		"description": "Learn how to build a Full Stack Application with us! This workshop takes a hands on approach to teaching you how to build a responsive website",
+		"imgUrl": "/workshops/fullstack.jpeg",
+		"link": "https://www.youtube.com/watch?v=ZdttLq9D7Uo"
+	},
+	{
+		"name": "Full Stack Development Workshop #3",
+		"description": "Learn how to build a Full Stack Application with us! This workshop teaches you about component architecture and databases!",
+		"imgUrl": "/workshops/fullstack.jpeg",
+		"link": "https://www.youtube.com/watch?v=ZP3ECTqpquA"
+	},
+	{
+		"name": "Holiday Workshop",
+		"description": "Learn how to build a Chrome extension that spice up websites with holiday spirit!",
+		"imgUrl": "/workshops/holiday.jpeg",
+		"link": ""
+	}
+]
