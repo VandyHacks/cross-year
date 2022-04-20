@@ -6,7 +6,7 @@ import { WorkshopShowcase } from "../components/WorkshopShowcase";
 
 const Workshops = () => {
   return (
-    <div>
+    <div className="text-[#28315A]">
       <Navbar />
       <div className="pt-12 pb-12 mb-0 bg-no-repeat bg-cover  h-full text-center">
         <div className="text-6xl py-5">Past Workshops</div>
