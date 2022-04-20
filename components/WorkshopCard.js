@@ -3,7 +3,7 @@ import Image from "next/image";
 export const WorkshopCard = ({ workshopData }) => {
   const { name, description, imgUrl, link } = workshopData;
   return (
-    <div className="text-xs  w-[360px] h-[480px] text-left rounded-3xl shadow-xl overflow-hidden hover:scale-[105%] transition duration-200">
+    <div className="bg-white text-xs  w-[360px] h-[480px] text-left rounded-3xl shadow-xl overflow-hidden hover:scale-[105%] transition duration-200">
       <Image
         className=" transition duration-200 bg-[#28315A]"
         src={imgUrl}
