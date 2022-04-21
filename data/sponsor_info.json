@@ -1,0 +1,151 @@
+[
+    {
+        "name": "Alliance Bernstein",
+		"imgUrl": "/sponsors/alliance-bernstein.jpeg",
+        "link": "https://www.alliancebernstein.com/"
+    },
+
+    {
+        "name": "Asurion",
+        "imgUrl": "/sponsors/asurion.png",
+        "link": "https://www.asurion.com/"
+    },
+
+    {
+        "name": "BNY",
+        "imgUrl": "/sponsors/bny.png",
+        "link": "https://www.bnymellon.com/"
+    },
+
+    {
+        "name": "BOS",
+        "imgUrl": "/sponsors/bos.png",
+        "link": "https://www.bos.com/"
+    },
+
+    {
+        "name": "Capital One",
+        "imgUrl": "/sponsors/capital-one.png",
+        "link": "https://www.capitalone.com/"
+    },
+
+    {
+        "name": "Centene",
+        "imgUrl": "/sponsors/centene.png",
+        "link": "https://www.centene.com/"
+    },
+
+    {
+        "name": "Dollar General",
+        "imgUrl": "/sponsors/dollar-general.png",
+        "link": "https://www.dollargeneral.com/"
+    },
+
+    {
+        "name": "Echo3D",
+        "imgUrl": "/sponsors/echo3d.png",
+        "link": "https://www.echo3d.com/"
+    },
+
+    {
+        "name": "Eventbrite",
+        "imgUrl": "/sponsors/eventbrite.png",
+        "link": "https://www.eventbrite.com/"
+    },
+
+    {
+        "name": "Exponent",
+        "imgUrl": "/sponsors/exponent.png",
+        "link": "https://www.exponent.com/"
+    },
+
+    {
+        "name": "Fulcrum GT",
+        "imgUrl": "/sponsors/fulcrum-gt.png",
+        "link": "https://www.fulcrumgt.com"
+    },
+
+    {
+        "name": "Google",
+        "imgUrl": "/sponsors/google.png",
+        "link": "https://www.google.com/"
+    },
+
+    {
+        "name": "Home Depot",
+        "imgUrl": "/sponsors/home-depot.png",
+        "link": "https://www.homedepot.com/"
+    },
+
+    {
+        "name": "HRT",
+        "imgUrl": "/sponsors/hrt.png",
+        "link": "https://www.hrt.com/"
+    },
+
+    {
+        "name": "IMC",
+        "imgUrl": "/sponsors/imc.png",
+        "link": "https://www.imc.com/"
+    },
+
+    {
+        "name": "Ingram Commons",
+        "imgUrl": "/sponsors/ingram-commons.png",
+        "link": "https://www.vanderbilt.edu/"
+    },
+
+    {
+        "name": "L3Harris",
+        "imgUrl": "/sponsors/l3harris.png",
+        "link": "https://www.l3harris.com/"
+    },
+
+    {
+        "name": "Microsoft",
+        "imgUrl": "/sponsors/microsoft.png",
+        "link": "https://www.microsoft.com/"
+    },
+
+    {
+        "name": "MicroStrategy",
+        "imgUrl": "/sponsors/microstrategy.png",
+        "link": "https://www.microstrategy.com/"
+    },
+
+    {
+        "name": "Red Ventures",
+        "imgUrl": "/sponsors/red-ventures.png",
+        "link": "https://www.redventures.com/"
+    },
+
+    {
+        "name": "Stripe",
+        "imgUrl": "/sponsors/stripe.png",
+        "link": "https://stripe.com/"
+    },
+
+    {
+        "name": "Tractor Supply Co.",
+        "imgUrl": "/sponsors/tractor-supply-co.png",
+        "link": "https://www.tractorsupply.com/"
+    },
+
+    {
+        "name": "Vanderbilt University School of Engineering",
+        "imgUrl": "/sponsors/vanderbilt-university-school-of-engineering.png",
+        "link": "https://www.vanderbilt.edu/"
+    },
+
+    {
+        "name": "Vanderbilt Ventures Group",
+        "imgUrl": "/sponsors/vanderbilt-ventures-group.png",
+        "link": "https://www.vanderbilt.edu/"
+    },
+
+    {
+        "name": "Vanguard",
+        "imgUrl": "/sponsors/vanguard.png",
+        "link": "https://www.vanguard.com/"
+    }
+]
