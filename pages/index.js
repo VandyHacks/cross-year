@@ -38,24 +38,25 @@ const Home = () => {
 
 			<BottomSBlue className="-z-10 absolute mt-[-280px] w-full  sm:hidden" />
 
-
 			<div className="z-10 sm:mt-0 mt-96 1sm:mt-96 md:mt-0 pt-1 bg-white">
 				{/* box here with mobile stuff load if resolution is a certain size */}
 
-				<div className="w-[70%] sm:w-[100%] mx-auto sm:mt-0 font-semibold bg-no-repeat bg-center text-center bg-[url('/svgs/yellow_title.svg')]  leading-4 h-16 text-4xl sm:text-3xl">
+				<div className="w-[70%] sm:w-[100%] mx-auto sm:mt-0 font-semibold bg-no-repeat bg-center text-center bg-[url('/svgs/yellow_title.svg')]  leading-4 h-16 text-2xl sm:text-3xl">
 					Coming Soon
 				</div>
 				<div className="block sm:w-[50%] w-0 m-auto">
 					<HappeningNowEgg />
 				</div>
 				<div className="text-center mb-28 w-[80%] md:w-[70%] lg:w-[50%] mx-auto">
-					<p className="font-bold text-lg">October 21 - October 23</p>
-					<p className="m-4 text-base bold">Mark your calendar!</p>
-					<p>
-						VandyHacks IX Hackathon is happening this October, 2022!
+					<p className="font-bold text-lg">VandyHacks IX</p>
+					<p className="m-4 text-base bold">
+						October 21 - October 23
 					</p>
 					<p>
-
+						Mark your calendar! VandyHacks IX Hackathon is happening
+						this October, 2022!
+					</p>
+					<p>
 						This hackathon will be fully in-person, and we have
 						prepared plethora of workshops and events to help you
 						get started even if it is your first Hackathon event!
