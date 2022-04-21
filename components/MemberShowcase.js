@@ -12,20 +12,20 @@ const MemberShowcase = () => {
 	const memberDescription = {
 		All: "All of our VandyHacks committee members!",
 		President:
-			"Say hello to our current Presidents! They are responsible for running the committee and making sure that every committee is running smoothly.",
+			"Say hello to our current Presidents! They work hard to make sure that every committee is running smoothly.",
 		Content:
 			"The Content committee produces workshops and many educational material for VandyHacks! ",
 		Design: "The Design committee produces all design assets for VandyHacks and directs our image!",
 		Development:
-			"The Development committee implements all the software and applications that run VandyHacks!",
+			"The Development committee implements all of the technical infrastructure behind our event!",
 		"Hacker Experience":
-			"The HE committee coordinates and plans hacker-related activities, judging processes, and other events for VandyHacks!",
+			"The HE committee coordinates and plans the judging processes and polishes everything that hackers see, touch, and interact with!",
 		Marketing:
 			"The Marketing committee handles all marketing and PR for VandyHacks!",
 		Operations:
-			"The Operations committee organizes, plans, and coordinates in-person events, transportatopn, setup, and more for VandyHacks!",
+			"The Operations committee organizes, plans, and coordinates in-person events, transportatopn, setup, and more!",
 		Sponsorship:
-			"The Sponsorship committee handles all sponsorship for VandyHacks!",
+			"The Sponsorship committee communicates with sponsors whose support makes VandyHacks possible!",
 	};
 
 	useEffect(() => {

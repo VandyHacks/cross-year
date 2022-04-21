@@ -15,11 +15,11 @@ const EventShowcase = () => {
         <div className="absolute backdrop-blur-sm bg-white/[15%] py-5 w-full bottom-0">
           <a
             target="_blank"
-            href="https://vandyhacks.org/"
+            href="https://viii.vandyhacks.org/"
             rel="noopener noreferrer"
             className="hover:cursor-pointer text-white font-sans text-lg lg:text-3xl"
           >
-            Click Here To Visit VH Space Edition
+            Click Here To Visit VH VIII (Space Edition)
           </a>
         </div>
       </div>
@@ -39,7 +39,7 @@ const EventShowcase = () => {
             rel="noopener noreferrer"
             className="hover:cursor-pointer text-[#691335] font-mono text-lg lg:text-3xl"
           >
-            Click Here To Visit VH Squirrel Edition
+            Click Here To Visit VH VII (Retro Edition)
           </a>
         </div>
       </div>
@@ -58,7 +58,7 @@ const EventShowcase = () => {
             rel="noopener noreferrer"
             className="hover:cursor-pointer text-[#1C53A0] font-mono text-lg lg:text-3xl"
           >
-            Click Here To Visit VH Art Edition
+            Click Here To Visit VH VI (Art Edition)
           </a>
         </div>
       </div>
