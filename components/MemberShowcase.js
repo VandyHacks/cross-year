@@ -7,10 +7,12 @@ import jsonList from "../data/members_info.json";
 const MemberShowcase = () => {
 	// load the member JSON file into a variable
 	const memberList = jsonList;
-	const [teamName, setTeamName] = useState("All");
+	const [committeeName, setTeamName] = useState("All");
 	const [teamList, setTeamList] = useState(memberList);
 	const memberDescription = {
 		All: "All of our VandyHacks committee members!",
+		President:
+			"Say hello to our current Presidents! They are responsible for running the committee and making sure that every committee is running smoothly.",
 		Content:
 			"The Content committee produces workshops and many educational material for VandyHacks! ",
 		Design: "The Design committee produces all design assets for VandyHacks and directs our image!",
@@ -29,16 +31,21 @@ const MemberShowcase = () => {
 	useEffect(() => {
 		const randomList = memberList.sort(() => 0.5 - Math.random());
 		const filteredList = randomList.filter(
-			(member) => teamName == "All" || member.team.includes(teamName)
+			(member) =>
+				committeeName == "All" ||
+				member.committee.includes(committeeName)
 		);
 		setTeamList(filteredList);
-	}, [memberList, teamName]);
+	}, [memberList, committeeName]);
 
 	return (
 		<div className="my-20 text-center mx-auto w-[90%]">
-			<ShowcaseNavigation teamName={teamName} setTeamName={setTeamName} />
+			<ShowcaseNavigation
+				teamName={committeeName}
+				setTeamName={setTeamName}
+			/>
 
-			<div className="py-10">{memberDescription[teamName]}</div>
+			<div className="py-10">{memberDescription[committeeName]}</div>
 
 			<div className="gap-y-10 justify-items-center pt-5 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
 				{teamList.map((member) => (
