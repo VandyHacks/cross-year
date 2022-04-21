@@ -58,8 +58,9 @@ const ShowcaseNavigation = ({ teamName, setTeamName }) => {
 					active ? "" : "hidden"
 				} hidden md:flex md:flex-row w-full justify-center md:space-x-4 lg:space-x-10`}
 			>
-				{teamDescription.map((team) => (
+				{teamDescription.map((team, index) => (
 					<ShowcaseNavigationButton
+						key={index}
 						teamName={teamName}
 						committeeName={team}
 						setTeamName={setTeamName}
