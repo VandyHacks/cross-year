@@ -48,10 +48,13 @@ const Home = () => {
 					<HappeningNowEgg />
 				</div>
 				<div className="text-center mb-28 w-[80%] md:w-[70%] lg:w-[50%] mx-auto">
-					<p className="font-bold text-lg">October 21 - October 23</p>
-					<p className="m-4 text-base bold">Mark your calendar!</p>
+					<p className="font-bold text-lg">VandyHacks IX</p>
+					<p className="m-4 text-base bold">
+						October 21 - October 23
+					</p>
 					<p>
-						VandyHacks IX Hackathon is happening this October, 2022!
+						Mark your calendar! VandyHacks IX Hackathon is happening
+						this October, 2022!
 					</p>
 					<p>
 						This hackathon will be fully in-person, and we have
