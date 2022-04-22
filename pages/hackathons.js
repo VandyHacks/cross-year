@@ -15,7 +15,7 @@ const Hackathons = () => {
         <div className="text-6xl py-5">Past Hackathons</div>
         <div className="flex flex-col md:flex-row justify-center items-center w-full md:w-[80%] mx-auto pt-10"></div>
         <div className="text-2xl">
-          Swipe below to see our past hackathon websites!
+          Swipe below to see promotional websites for past VandyHacks!
         </div>
         <EventShowcase />
       </div>

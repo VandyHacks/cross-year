@@ -49,21 +49,21 @@ const Home = () => {
 				</div>
 				<div className="text-center mb-28 w-[80%] md:w-[70%] lg:w-[50%] mx-auto">
 					<p className="font-bold text-lg">VandyHacks IX</p>
-					<p className="m-4 text-base bold">
-						October 21 - October 23
+					<p className="m-4 text-base bold italic">
+						October 21 - October 23, 2022
 					</p>
 					<p>
 						Mark your calendar! VandyHacks IX Hackathon is happening
 						this October, 2022!
 					</p>
 					<p>
-						This hackathon will be fully in-person, and we have
+						This hackathon will be <b>fully in-person</b>, and we have
 						prepared plethora of workshops and events to help you
 						get started even if it is your first Hackathon event!
 					</p>
 
 					{/* <Button
-						text="VandyHacks VIII"
+						text="VandyHacks IX"
 						link="https://www.vandyhacks.org"
 					/> */}
 				</div>
@@ -78,17 +78,17 @@ const Home = () => {
 				/>
 				<div className="w-[100%] bg-[#fbf1bc]">
 					<div className="w-[70%] sm:w-[100%] mx-auto font-semibold bg-no-repeat bg-center text-center bg-[url('/svgs/blue_title.svg')]  leading-4 h-16 text-2xl sm:text-3xl">
-						Our Sponsors
+						Past Sponsors
 					</div>
 					<br />
 					<img
 						alt="sponsors photo"
-						className="mx-auto w-[50%]"
+						className="mx-auto w-[70%] py-8 sm:py-16"
 						src="/logos/sponsors.png"
 					/>
 					<div className="text-center">
 						<p className="m-6 text-base font-semibold">
-							Companies behind VandyHacks.
+							Companies and organizations behind VandyHacks.
 						</p>
 						<Button
 							text="Sponsor Us"

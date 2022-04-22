@@ -17,7 +17,7 @@ const EventShowcase = () => {
             target="_blank"
             href="https://viii.vandyhacks.org/"
             rel="noopener noreferrer"
-            className="hover:cursor-pointer text-white font-sans text-lg lg:text-3xl"
+            className="hover:cursor-pointer text-white font-mono text-lg lg:text-3xl"
           >
             Click Here To Visit VH VIII (Space Edition)
           </a>

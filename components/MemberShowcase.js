@@ -22,7 +22,7 @@ const MemberShowcase = () => {
 		Marketing:
 			"The Marketing committee handles all marketing and PR for VandyHacks!",
 		Operations:
-			"The Operations committee organizes, plans, and coordinates in-person events, transportatopn, setup, and more!",
+			"The Operations committee organizes, plans, and coordinates in-person events, transportation, setup, and more!",
 		Sponsorship:
 			"The Sponsorship committee communicates with sponsors whose support makes VandyHacks possible!",
 	};
@@ -44,7 +44,7 @@ const MemberShowcase = () => {
 				setTeamName={setTeamName}
 			/>
 
-			<div className="py-10">{memberDescription[committeeName]}</div>
+			<div className="py-10 italic">{memberDescription[committeeName]}</div>
 
 			<div className="gap-y-10 justify-items-center pt-5 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
 				{teamList.map((member, index) => (

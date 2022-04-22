@@ -22,7 +22,7 @@ const About = () => {
             <p>
               We are an organization dedicated to fostering hacker culture and
               building a computer science community at Vanderbilt University! We
-              accomplish this by hosting an annual hackathon - a-36 hour
+              accomplish this by hosting an annual hackathon - a 36-hour
               software development marathon during which attendees think of an
               idea and build it - alongside regular hack nights, study
               nights, and many other fun events!
