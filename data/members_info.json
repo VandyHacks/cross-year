@@ -90,7 +90,7 @@
 		"from": "Santa Clarita, CA",
 		"year": "First-Year",
 		"committee": "Sponsorship",
-		"enjoy": "I love how passionate everyone in VandyHacks is about putting together an amazing hackathon. You can tell that everyone takes their jobs seriously and wants to make Computer Science fun and accessible for all.",
+		"enjoy": "I love how passionate everyone in VandyHacks is about putting together an amazing hackathon. You can tell that everyone takes their jobs seriously and wants to make CS fun and accessible for all.",
 		"favorite song": "orange, by CLAY",
 		"funfact": "I have made over 80 Spotify playlists... and counting!"
 	},
@@ -545,15 +545,6 @@
 		"role": "Member",
 		"from": "",
 		"year": "Third-Year",
-		"committee": "Hacker Experience"
-	},
-
-	{
-		"name": "Sarene Mun",
-		"image": "headshots/placeholder.jpg",
-		"role": "Member",
-		"from": "",
-		"year": "Second-Year",
 		"committee": "Hacker Experience"
 	},
 
