@@ -17,14 +17,15 @@ const About = () => {
           <div className="text-center text-6xl pb-6 bg-no-repeat bg-bottom bg-[url(/yellow_title.svg)]">
             About
           </div>
-          <div className="mt-[2rem] text-lg mx-4 leading-7 p-3 md:text-xl md:mx-[4rem] md:leading-9 md:p-6 md:bg-[#28315A]/[0.1] rounded-3xl">
+          {/* md:bg-[#28315A]/[0.1] */}
+          <div className="mt-[2rem] text-lg mx-4 leading-7 p-3 md:text-xl md:mx-[4rem] md:leading-9 md:p-6 rounded-3xl">
             <p>
               We are an organization dedicated to fostering hacker culture and
               building a computer science community at Vanderbilt University! We
-              accomplish this by hosting an annual hackathon - a 36 hour
+              accomplish this by hosting an annual hackathon - a-36 hour
               software development marathon during which attendees think of an
-              idea and build it - alongside regular hack nights and study
-              nights!
+              idea and build it - alongside regular hack nights, study
+              nights, and many other fun events!
             </p>
           </div>
         </div>
@@ -40,7 +41,7 @@ const About = () => {
         <div className="">
           <div className="flex flex-col md:flex-row justify-center items-center w-full md:w-[80%] mx-auto pt-10">
             <Image
-              className="rounded-[75px] md:w-[40%] max-w-6xl"
+              className="rounded-[75px] object-cover md:w-[40%] max-w-6xl"
               src="/misc/meet_the_board.jpeg"
               alt="VandyHacks Org"
               width={750}
@@ -48,7 +49,7 @@ const About = () => {
             />
             <div className="text-2xl text-left font-normal pt-10 md:pt-0 md:pl-20 leading-10 w-[80%] md:w-[60%]">
               <p>
-                The VandyHacks Board consists of 40+ organizers who are
+                The VandyHacks Board consists of around 60 organizers who are
                 committed to creating learning experiences that are accessible
                 and applicable to all. Meet the team below!
               </p>

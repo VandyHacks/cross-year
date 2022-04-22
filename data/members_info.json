@@ -429,5 +429,195 @@
 		"enjoy": "",
 		"favorite song": "Welcome to the Internet - Bo Burnham",
 		"funfact": "I can solve a Rubik's cube blindfolded... with a 50% success rate"
+	},
+
+	{
+		"name": "Sayd Agzamkhodjaev",
+		"image": "headshots/placeholder.jpg",
+		"role": "Senior Advisor",
+		"from": "Tashkent, Uzbekistan",
+		"year": "Third-Year",
+		"committee": ""
+	},
+
+	{
+		"name": "Seok Hee Hong",
+		"image": "headshots/placeholder.jpg",
+		"role": "Committee Advisor",
+		"from": "",
+		"year": "Third-Year",
+		"committee": "Content"
+	},
+
+	{
+		"name": "Keshvi Mahalingam",
+		"image": "headshots/placeholder.jpg",
+		"role": "Member",
+		"from": "",
+		"year": "Third-Year",
+		"committee": "Content"
+	},
+
+	{
+		"name": "Nisala Kalupahana",
+		"image": "headshots/placeholder.jpg",
+		"role": "Member",
+		"from": "",
+		"year": "Second-Year",
+		"committee": "Content, Development"
+	},
+
+	{
+		"name": "Aadi Bajpai",
+		"image": "headshots/placeholder.jpg",
+		"role": "Member, Committee Advisor",
+		"from": "",
+		"year": "Second-Year",
+		"committee": "Content, Development"
+	},
+
+	{
+		"name": "Ben Siraphob",
+		"image": "headshots/placeholder.jpg",
+		"role": "Member",
+		"from": "",
+		"year": "Third-Year",
+		"committee": "Content, Development"
+	},
+
+	{
+		"name": "Akash Munagala",
+		"image": "headshots/placeholder.jpg",
+		"role": "Member",
+		"from": "",
+		"year": "Second-Year",
+		"committee": "Development"
+	},
+
+	{
+		"name": "Chinchuluun Munkh-Achit",
+		"image": "headshots/placeholder.jpg",
+		"role": "Member",
+		"from": "",
+		"year": "Fourth-Year",
+		"committee": "Development"
+	},
+
+	{
+		"name": "Juyoung Kim",
+		"image": "headshots/placeholder.jpg",
+		"role": "Member",
+		"from": "",
+		"year": "Fourth-Year",
+		"committee": "Development"
+	},
+
+	{
+		"name": "Samuel Lee",
+		"image": "headshots/placeholder.jpg",
+		"role": "Committee Advisor",
+		"from": "",
+		"year": "Fourth-Year",
+		"committee": "Development"
+	},
+
+	{
+		"name": "Jerry Chen",
+		"image": "headshots/placeholder.jpg",
+		"role": "Member",
+		"from": "",
+		"year": "First-Year",
+		"committee": "Development"
+	},
+
+	{
+		"name": "Adaline Leong",
+		"image": "headshots/placeholder.jpg",
+		"role": "Member",
+		"from": "",
+		"year": "First-Year",
+		"committee": "Development"
+	},
+
+	{
+		"name": "Claire Yan",
+		"image": "headshots/placeholder.jpg",
+		"role": "Member",
+		"from": "",
+		"year": "Third-Year",
+		"committee": "Hacker Experience"
+	},
+
+	{
+		"name": "Sarene Mun",
+		"image": "headshots/placeholder.jpg",
+		"role": "Member",
+		"from": "",
+		"year": "Second-Year",
+		"committee": "Hacker Experience"
+	},
+
+	{
+		"name": "Alex Oh",
+		"image": "headshots/placeholder.jpg",
+		"role": "Member",
+		"from": "",
+		"year": "First-Year",
+		"committee": "Hacker Experience"
+	},
+
+	{
+		"name": "Katelyn Itano",
+		"image": "headshots/placeholder.jpg",
+		"role": "Member",
+		"from": "",
+		"year": "Fourth-Year",
+		"committee": "Operations"
+	},
+
+	{
+		"name": "Christina Woodrow",
+		"image": "headshots/placeholder.jpg",
+		"role": "Committee Advisor",
+		"from": "",
+		"year": "Third-Year",
+		"committee": "Marketing"
+	},
+
+	{
+		"name": "Sophia Chen",
+		"image": "headshots/placeholder.jpg",
+		"role": "Committee Advisor",
+		"from": "",
+		"year": "Fourth-Year",
+		"committee": "Marketing, Sponsorship"
+	},
+
+	{
+		"name": "Jane Sun",
+		"image": "headshots/placeholder.jpg",
+		"role": "Member",
+		"from": "",
+		"year": "First-Year",
+		"committee": "Marketing"
+	},
+
+
+	{
+		"name": "Miranda Zhu",
+		"image": "headshots/placeholder.jpg",
+		"role": "Member",
+		"from": "",
+		"year": "Third-Year",
+		"committee": "Marketing"
+	},
+
+	{
+		"name": "Parker Schultz",
+		"image": "headshots/placeholder.jpg",
+		"role": "Member",
+		"from": "",
+		"year": "First-Year",
+		"committee": "Sponsorship"
 	}
 ]
