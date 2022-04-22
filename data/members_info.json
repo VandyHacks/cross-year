@@ -605,10 +605,25 @@
 
 	{
 		"name": "Parker Schultz",
-		"image": "headshots/placeholder.jpg",
+		"image": "headshots/Parker-Schultz1.jpeg",
 		"role": "Member",
-		"from": "",
+		"from": "Woodbridge, VA",
 		"year": "First-Year",
-		"committee": "Sponsorship"
+		"committee": "Sponsorship",
+		"enjoy": "The community and mission of VandyHacks.",
+		"favorite song": "Careless Whisper",
+		"funfact": "I got recruited to play Overwatch in college, but declined to go to Vanderbilt."
+	},
+
+	{
+		"name": "Sneh Patel",
+		"image": "headshots/Sneh-Patel.jpg",
+		"role": "Director",
+		"from": "Franklin Township, NJ",
+		"year": "Third-Year",
+		"committee": "Development",
+		"enjoy": "It's a great opportunity to learn a lot and get involved in hands on projects!",
+		"favorite song": "Layla - Eric Clapton",
+		"funfact": "I transferred to Vandy my sophomore year!"
 	}
 ]

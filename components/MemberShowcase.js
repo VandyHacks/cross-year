@@ -9,7 +9,7 @@ const MemberShowcase = () => {
 	const [committeeName, setTeamName] = useState("All");
 	const [teamList, setTeamList] = useState(memberList);
 	const memberDescription = {
-		All: "All of our VandyHacks committee members!",
+		All: "All of our VandyHacks board members!",
 		President:
 			"Say hello to our current Presidents! They work hard to make sure that every committee is running smoothly.",
 		Content:
