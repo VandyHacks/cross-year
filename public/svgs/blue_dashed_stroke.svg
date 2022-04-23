@@ -1,4 +1,1 @@
-<svg width="600" height="25" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <line stroke-dasharray="30, 20" stroke-dashoffset="15" x1="150" y1="10" x2="450" y2="10" style="stroke: rgb(40, 49, 90); stroke-width: 5px;"></line>
-</svg>
-		  
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="25" version="1.1"><line x1="150" x2="450" y1="10" y2="10" stroke-dasharray="30 20" stroke-dashoffset="15" style="stroke:#28315a;stroke-width:5px"/></svg>
