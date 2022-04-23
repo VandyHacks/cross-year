@@ -12,7 +12,9 @@ const Hackathons = () => {
       <Navbar />
 
       <div className="pt-12 pb-12 mb-0 bg-[url('/misc/leaves.png')]  bg-no-repeat bg-cover  h-full text-center">
-        <div className="text-6xl py-5">Past Hackathons</div>
+        <div className="text-center text-6xl pb-6 bg-no-repeat bg-bottom bg-[url(/yellow_title.svg)]">
+            Past VH
+          </div>
         <div className="flex flex-col md:flex-row justify-center items-center w-full md:w-[80%] mx-auto pt-10"></div>
         <div className="text-2xl">
           Swipe below to see promotional websites for past VandyHacks!

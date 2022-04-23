@@ -49,8 +49,9 @@ const About = () => {
             />
             <div className="text-2xl text-left font-normal pt-10 md:pt-0 md:pl-20 leading-10 w-[80%] md:w-[60%]">
               <p>
-                The VandyHacks Board consists of around 60 organizers who are
-                committed to creating learning experiences that are accessible
+                The VandyHacks Board consists of 7 committees and 
+                around 60 organizers who are committed to creating 
+                learning experiences that are accessible
                 and applicable to all. Meet the team below!
               </p>
             </div>

@@ -27,7 +27,7 @@ const KeepInTouch = () => {
       </div>
 
       <div className="mt-16 mb-28  font-semibold text-center">
-        <p>Check back later for board applications!</p>
+        <p>Check back later for VH IX application!</p>
       </div>
     </div>
   );

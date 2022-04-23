@@ -15,7 +15,7 @@ export const WorkshopCard = ({ workshopData }) => {
 			{link.length > 0 ? (
 				<a href={link}>
 					<div className="scale-[80%] rounded-xl text-lg absolute bottom-2 right-1 py-3 px-5 bg-[#28315A] text-white">
-						See more!
+						Watch Now!
 					</div>
 				</a>
 			) : null}
