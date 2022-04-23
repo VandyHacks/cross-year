@@ -83,7 +83,7 @@ const Home = () => {
 					<br />
 					<img
 						alt="sponsors photo"
-						className="mx-auto w-[70%] py-8 sm:py-16"
+						className="mx-auto w-[85%] py-8 sm:py-16"
 						src="/logos/sponsors.png"
 					/>
 					<div className="text-center">

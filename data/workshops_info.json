@@ -36,6 +36,12 @@
 		"link": "https://www.youtube.com/watch?v=ZP3ECTqpquA"
 	},
 	{
+		"name": "Full Stack Development Workshop #4 (Finale)",
+		"description": "Learn how to build a Full Stack Application with us! This workshop teaches you about the final project!",
+		"imgUrl": "/workshops/fullstack.jpeg",
+		"link": "https://www.youtube.com/watch?v=7LnYXnKgNcU"
+	},
+	{
 		"name": "Holiday Workshop",
 		"description": "Learn how to build a Chrome extension that spice up websites with holiday spirit!",
 		"imgUrl": "/workshops/holiday.jpeg",

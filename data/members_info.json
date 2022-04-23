@@ -495,12 +495,15 @@
 	},
 
 	{
-		"name": "Chinchuluun Munkh-Achit",
-		"image": "headshots/placeholder.jpg",
+		"name": "Chuka Munkh-Achit",
+		"image": "headshots/Chuka-Munkh-Achit.jpg",
 		"role": "Member",
-		"from": "",
+		"from": "Erdenet, Mongolia",
 		"year": "Fourth-Year",
-		"committee": "Development"
+		"committee": "Development",
+		"enjoy": "the ~memes~",
+		"favorite song": "Rick Astley - Never Gonna Give You Up",
+		"funfact": "I like Rick Astley"
 	},
 
 	{
@@ -577,11 +580,14 @@
 
 	{
 		"name": "Sophia Chen",
-		"image": "headshots/placeholder.jpg",
+		"image": "headshots/Sophia-Chen.jpg",
 		"role": "Committee Advisor",
-		"from": "",
+		"from": "Naperville, IL",
 		"year": "Fourth-Year",
-		"committee": "Marketing, Sponsorship"
+		"committee": "Marketing, Sponsorship",
+		"enjoy": "I love the people! Everyone is so friendly and helpful.",
+		"favorite song": "Any Lauv Song",
+		"funfact": "I’m a dual citizen in Canada and the US."
 	},
 
 	{
