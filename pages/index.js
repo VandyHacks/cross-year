@@ -12,6 +12,7 @@ import { MobileHappeningNow } from "../components/MobileHappeningNow";
 import BottomSBlue from "../public/svgs/blue_on_white_bottom.svg";
 import { ArrowCircleRightIcon } from "@heroicons/react/outline";
 import KeepInTouch from "../components/KeepInTouch";
+import { SponsorShowcase } from "../components/SponsorShowcase";
 const Home = () => {
 	return (
 		<div className="text-[#28315A]">
@@ -81,11 +82,8 @@ const Home = () => {
 						Past Sponsors
 					</div>
 					<br />
-					<img
-						alt="sponsors photo"
-						className="mx-auto w-[85%] py-8 sm:py-16"
-						src="/logos/sponsors.png"
-					/>
+					<SponsorShowcase />
+					<br />
 					<div className="text-center">
 						<p className="m-6 text-base font-semibold">
 							Companies and organizations behind VandyHacks.

@@ -1,7 +1,7 @@
 [
     {
         "name": "Alliance Bernstein",
-		"imgUrl": "/sponsors/alliance-bernstein.jpeg",
+		"imgUrl": "/sponsors/alliance-bernstein.png",
         "link": "https://www.alliancebernstein.com/"
     },
 
@@ -20,7 +20,7 @@
     {
         "name": "BOS",
         "imgUrl": "/sponsors/bos.png",
-        "link": "https://www.bos.com/"
+        "link": "https://www.bosframework.com/"
     },
 
     {
@@ -44,7 +44,7 @@
     {
         "name": "Echo3D",
         "imgUrl": "/sponsors/echo3d.png",
-        "link": "https://www.echo3d.com/"
+        "link": "https://www.echo3d.co/"
     },
 
     {
@@ -56,13 +56,13 @@
     {
         "name": "Exponent",
         "imgUrl": "/sponsors/exponent.png",
-        "link": "https://www.exponent.com/"
+        "link": "https://www.tryexponent.com"
     },
 
     {
         "name": "Fulcrum GT",
         "imgUrl": "/sponsors/fulcrum-gt.png",
-        "link": "https://www.fulcrumgt.com"
+        "link": "https://fulcrumgt.com"
     },
 
     {
@@ -80,19 +80,13 @@
     {
         "name": "HRT",
         "imgUrl": "/sponsors/hrt.png",
-        "link": "https://www.hrt.com/"
+        "link": "https://www.hudsonrivertrading.com"
     },
 
     {
         "name": "IMC",
         "imgUrl": "/sponsors/imc.png",
         "link": "https://www.imc.com/"
-    },
-
-    {
-        "name": "Ingram Commons",
-        "imgUrl": "/sponsors/ingram-commons.png",
-        "link": "https://www.vanderbilt.edu/"
     },
 
     {
@@ -120,21 +114,21 @@
     },
 
     {
-        "name": "Stripe",
-        "imgUrl": "/sponsors/stripe.png",
-        "link": "https://stripe.com/"
-    },
-
-    {
         "name": "Tractor Supply Co.",
         "imgUrl": "/sponsors/tractor-supply-co.png",
         "link": "https://www.tractorsupply.com/"
     },
 
     {
+        "name": "Vanderbilt Ingram Commons",
+        "imgUrl": "/sponsors/vanderbilt-ingram-commons.png",
+        "link": "https://www.vanderbilt.edu/residentialcolleges/ingram-commons/"
+    },
+    
+    {
         "name": "Vanderbilt University School of Engineering",
-        "imgUrl": "/sponsors/vanderbilt-university-school-of-engineering.png",
-        "link": "https://www.vanderbilt.edu/"
+        "imgUrl": "/sponsors/vanderbilt-school-of-engineering.png",
+        "link": "https://engineering.vanderbilt.edu/"
     },
 
     {
