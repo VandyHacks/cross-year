@@ -2,55 +2,55 @@
     {
         "name": "Alliance Bernstein",
 		"imgUrl": "/sponsors/alliance-bernstein.png",
-        "link": "https://www.alliancebernstein.com/"
+        "link": "https://www.alliancebernstein.com/corporate/en/careers/students.html"
     },
 
     {
         "name": "Asurion",
         "imgUrl": "/sponsors/asurion.png",
-        "link": "https://www.asurion.com/"
+        "link": "https://careers.asurion.com"
     },
 
     {
         "name": "BNY",
         "imgUrl": "/sponsors/bny.png",
-        "link": "https://www.bnymellon.com/"
+        "link": "https://www.bnymellon.com/us/en/careers/students.html"
     },
 
     {
         "name": "BOS",
         "imgUrl": "/sponsors/bos.png",
-        "link": "https://www.bosframework.com/"
+        "link": "https://www.bosframework.com/careers"
     },
 
     {
         "name": "Capital One",
         "imgUrl": "/sponsors/capital-one.png",
-        "link": "https://www.capitalone.com/"
+        "link": "https://www.capitalonecareers.com"
     },
 
     {
         "name": "Centene",
         "imgUrl": "/sponsors/centene.png",
-        "link": "https://www.centene.com/"
+        "link": "https://jobs.centene.com/us/en"
     },
 
     {
         "name": "Dollar General",
         "imgUrl": "/sponsors/dollar-general.png",
-        "link": "https://www.dollargeneral.com/"
+        "link": "https://jobs-dollargeneral.icims.com/jobs/search?ss=1&searchCategory=8730&mobile=false&width=998&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300"
     },
 
     {
         "name": "Echo3D",
         "imgUrl": "/sponsors/echo3d.png",
-        "link": "https://www.echo3d.co/"
+        "link": "https://www.echo3d.co"
     },
 
     {
         "name": "Eventbrite",
         "imgUrl": "/sponsors/eventbrite.png",
-        "link": "https://www.eventbrite.com/"
+        "link": "https://www.eventbritecareers.com/home"
     },
 
     {
@@ -68,55 +68,55 @@
     {
         "name": "Google",
         "imgUrl": "/sponsors/google.png",
-        "link": "https://www.google.com/"
+        "link": "https://careers.google.com"
     },
 
     {
         "name": "Home Depot",
         "imgUrl": "/sponsors/home-depot.png",
-        "link": "https://www.homedepot.com/"
+        "link": "https://careers.homedepot.com"
     },
 
     {
         "name": "HRT",
         "imgUrl": "/sponsors/hrt.png",
-        "link": "https://www.hudsonrivertrading.com"
+        "link": "https://www.hudsonrivertrading.com/careers/"
     },
 
     {
         "name": "IMC",
         "imgUrl": "/sponsors/imc.png",
-        "link": "https://www.imc.com/"
+        "link": "https://careers.imc.com/us/en/"
     },
 
     {
         "name": "L3Harris",
         "imgUrl": "/sponsors/l3harris.png",
-        "link": "https://www.l3harris.com/"
+        "link": "https://careers.l3harris.com/search-jobs/"
     },
 
     {
         "name": "Microsoft",
         "imgUrl": "/sponsors/microsoft.png",
-        "link": "https://www.microsoft.com/"
+        "link": "https://careers.microsoft.com/us/en"
     },
 
     {
         "name": "MicroStrategy",
         "imgUrl": "/sponsors/microstrategy.png",
-        "link": "https://www.microstrategy.com/"
+        "link": "https://www.microstrategy.com/en/careers"
     },
 
     {
         "name": "Red Ventures",
         "imgUrl": "/sponsors/red-ventures.png",
-        "link": "https://www.redventures.com/"
+        "link": "https://www.redventures.com/careers"
     },
 
     {
         "name": "Tractor Supply Co.",
         "imgUrl": "/sponsors/tractor-supply-co.png",
-        "link": "https://www.tractorsupply.com/"
+        "link": "https://tractorsupply.jobs/?cm_sp=footer-_-tsc+careers"
     },
 
     {
@@ -140,6 +140,6 @@
     {
         "name": "Vanguard",
         "imgUrl": "/sponsors/vanguard.png",
-        "link": "https://www.vanguard.com/"
+        "link": "https://www.vanguardjobs.com/"
     }
 ]
