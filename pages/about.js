@@ -42,7 +42,7 @@ const About = () => {
           <div className="flex flex-col md:flex-row justify-center items-center w-full md:w-[80%] mx-auto pt-10">
             <Image
               className="rounded-[75px] object-cover md:w-[40%] max-w-6xl"
-              src="/misc/meet_the_board.jpeg"
+              src="/misc/meet_the_board.jpg"
               alt="VandyHacks Org"
               width={750}
               height={500}

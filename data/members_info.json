@@ -442,11 +442,14 @@
 
 	{
 		"name": "Seok Hee Hong",
-		"image": "headshots/placeholder.jpg",
+		"image": "headshots/Seok-Hee-Hong.jpg",
 		"role": "Committee Advisor",
-		"from": "",
+		"from": "Portage, MI",
 		"year": "Third-Year",
-		"committee": "Content"
+		"committee": "Content",
+		"enjoy": "I love the community and the friendships I've built in VH! Everyone around is amazingly talented and inspiring, it brings out the best in me :))",
+		"favorite song": "Dandelions by Ruth B",
+		"funfact": "I like the color green."
 	},
 
 	{
@@ -478,11 +481,14 @@
 
 	{
 		"name": "Ben Siraphob",
-		"image": "headshots/placeholder.jpg",
+		"image": "headshots/Ben-Siraphob.jpg",
 		"role": "Member",
-		"from": "",
+		"from": "Bangkok, Thailand",
 		"year": "Third-Year",
-		"committee": "Content, Development"
+		"committee": "Content, Development",
+		"enjoy": "People come together to solve all kinds of interesting problems, and there's always a familiar face no matter where you are on campus!",
+		"favorite song": "As It Was — Harry Styles",
+		"funfact": "I speak three languages (English, Thai, Spanish)!"
 	},
 
 	{
@@ -508,11 +514,14 @@
 
 	{
 		"name": "Juyoung Kim",
-		"image": "headshots/placeholder.jpg",
-		"role": "Member",
-		"from": "",
+		"image": "headshots/Juyoung-Kim.jpg",
+		"role": "Senior Advisor",
+		"from": "Salt Lake City, UT",
 		"year": "Fourth-Year",
-		"committee": "Development"
+		"committee": "Development",
+		"enjoy": "I love how everyone in VH is super passionate and kind! I met a lot of amazing people through VH.",
+		"favorite song": "\"House of the Rising Sun\" - The Animals",
+		"funfact": "I build and collect plastic model kits."
 	},
 
 	{
@@ -567,15 +576,6 @@
 		"from": "",
 		"year": "Fourth-Year",
 		"committee": "Operations"
-	},
-
-	{
-		"name": "Christina Woodrow",
-		"image": "headshots/placeholder.jpg",
-		"role": "Committee Advisor",
-		"from": "",
-		"year": "Third-Year",
-		"committee": "Marketing"
 	},
 
 	{
