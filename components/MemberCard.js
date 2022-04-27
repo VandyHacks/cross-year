@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 
 const MemberCard = ({ memberData }) => {
-	const { name, image, role, committee, from, year, enjoy, funfact } =
+	const { name, image, role, committee, from, year, enjoy, funfact, website } =
 		memberData;
 
 	return (
@@ -40,7 +40,11 @@ const MemberCard = ({ memberData }) => {
 				</div>
 			</div>
 			<div className="w-[180px] whitespace-normal font-bold py-5">
-				{name}
+				<a
+					href={website}
+					target="_blank"
+                	rel="noopener noreferrer"
+				>{name}</a>
 			</div>
 		</div>
 	);
