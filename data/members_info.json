@@ -498,11 +498,14 @@
 
 	{
 		"name": "Nisala Kalupahana",
-		"image": "headshots/placeholder.jpg",
+		"image": "headshots/Nisala-Kalupahana.jpg",
 		"role": "Member",
-		"from": "",
+		"from": "Hillsboro, OR",
 		"year": "Second-Year",
 		"committee": "Content, Development",
+		"enjoy": "I love teaching, whether that's in workshops or dev meetings :)",
+		"favorite song": "Night Owl by Dizzy Spells",
+		"funfact": "I've never had peanut butter before.",
 		"website": "https://www.linkedin.com/in/nisala/"
 	},
 
@@ -525,7 +528,8 @@
 		"committee": "Content, Development",
 		"enjoy": "People come together to solve all kinds of interesting problems, and there's always a familiar face no matter where you are on campus!",
 		"favorite song": "As It Was — Harry Styles",
-		"funfact": "I speak three languages (English, Thai, Spanish)!"
+		"funfact": "I speak three languages (English, Thai, Spanish)!",
+		"website": "https://siraben.dev/"
 	},
 
 	{
@@ -554,7 +558,7 @@
 	{
 		"name": "Juyoung Kim",
 		"image": "headshots/Juyoung-Kim.jpg",
-		"role": "Senior Advisor",
+		"role": "Committee Advisor",
 		"from": "Salt Lake City, UT",
 		"year": "Fourth-Year",
 		"committee": "Development",
@@ -566,12 +570,15 @@
 
 	{
 		"name": "Samuel Lee",
-		"image": "headshots/placeholder.jpg",
+		"image": "headshots/Samuel-Lee.jpg",
 		"role": "Committee Advisor",
-		"from": "",
+		"from": "Winchester, MA",
 		"year": "Fourth-Year",
 		"committee": "Development",
-		"website": "https://www.linkedin.com/in/samuelranlee/"
+		"enjoy": "Being part of a team of passionate and talented individuals all striving to make an impact on the Vandy community. Also Aadi 😋",
+		"favorite song": "Morning In America by Jon Bellion",
+		"funfact": "I am undefeated in the eating competition community.",
+		"website": "https://samlee.dev/"
 	},
 
 	{
@@ -603,11 +610,14 @@
 
 	{
 		"name": "Katelyn Itano",
-		"image": "headshots/placeholder.jpg",
+		"image": "headshots/Katelyn-Itano.jpg",
 		"role": "Member",
-		"from": "",
+		"from": "Scottsdale, AZ",
 		"year": "Fourth-Year",
 		"committee": "Operations",
+		"enjoy": "I love being a part of the tight-knit VandyHacks community and working with such fun and interesting people every year.",
+		"favorite song": "Record Player by Daisy the Great and AJR",
+		"funfund": "I am allergic to avocado, but I still eat guacamole!",
 		"website": "https://www.linkedin.com/in/katelyn-itano/"
 	},
 
