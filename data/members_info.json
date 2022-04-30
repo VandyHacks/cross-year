@@ -465,15 +465,6 @@
 	},
 
 	{
-		"name": "Sayd Agzamkhodjaev",
-		"image": "headshots/placeholder.jpg",
-		"role": "Senior Advisor",
-		"from": "Tashkent, Uzbekistan",
-		"year": "Third-Year",
-		"committee": ""
-	},
-
-	{
 		"name": "Seok Hee Hong",
 		"image": "headshots/Seok-Hee-Hong.jpg",
 		"role": "Committee Advisor",
@@ -488,7 +479,7 @@
 
 	{
 		"name": "Keshvi Mahalingam",
-		"image": "headshots/placeholder.jpg",
+		"image": "headshots/Keshvi-Mahalingam.jpg",
 		"role": "Member",
 		"from": "",
 		"year": "Third-Year",
@@ -511,11 +502,14 @@
 
 	{
 		"name": "Aadi Bajpai",
-		"image": "headshots/placeholder.jpg",
+		"image": "headshots/Aadi-Bajpai.jpg",
 		"role": "Member, Committee Advisor",
-		"from": "",
+		"from": "Kanpur, India",
 		"year": "Second-Year",
 		"committee": "Content, Development",
+		"enjoy": "Dev team.",
+		"favorite song": "sweater weather",
+		"funfact": "\"><img src='aaa' onerror=alert(1)>",
 		"website": "https://www.linkedin.com/in/aadibajpai/"
 	},
 
@@ -534,11 +528,14 @@
 
 	{
 		"name": "Akash Munagala",
-		"image": "headshots/placeholder.jpg",
+		"image": "headshots/Akash-Munagala.jpg",
 		"role": "Member",
-		"from": "",
+		"from": "Fremont, CA",
 		"year": "Second-Year",
 		"committee": "Development",
+		"enjoy": "It's fun to work with everyone else.",
+		"favorite song": "Hullabaloo",
+		"funfact": "I am fun",
 		"website": "https://www.linkedin.com/in/akash-munagala/"
 	},
 
@@ -583,7 +580,7 @@
 
 	{
 		"name": "Jerry Chen",
-		"image": "headshots/placeholder.jpg",
+		"image": "headshots/Jerry-Chen.jpg",
 		"role": "Member",
 		"from": "",
 		"year": "First-Year",
@@ -592,20 +589,27 @@
 
 	{
 		"name": "Adaline Leong",
-		"image": "headshots/placeholder.jpg",
+		"image": "headshots/Adaline-Leong.jpg",
 		"role": "Member",
-		"from": "",
+		"from": "Phoenix, AZ",
 		"year": "First-Year",
-		"committee": "Development"
+		"committee": "Development",
+		"enjoy": "I love how VandyHacks is a community of passionate people with different backgrounds and diverse interests.",
+		"favorite song": "Somewhere over the Rainbow sung by Israel Kamakawiwo'ole",
+		"funfact": "I own about 13 different types of Rubik's cubes!",
+		"website": "https://www.linkedin.com/in/jia-yin-leong/"
 	},
 
 	{
 		"name": "Alex Oh",
-		"image": "headshots/placeholder.jpg",
+		"image": "headshots/Alex-Oh.jpg",
 		"role": "Member",
-		"from": "",
+		"from": "Columbia, MD",
 		"year": "First-Year",
-		"committee": "Hacker Experience"
+		"committee": "Hacker Experience",
+		"enjoy": "VandyHacks is honestly such a great community as a whole. Even with different interests and skillsets, we all come together to put on such an amazing Hackathon every year and encourage programmers to develop new ideas. I truly love how every single one of us loves what we do, and honestly we all care for one another like we are family.",
+		"favorite song": "Come Sail Away - Styx",
+		"funfact": "I was lowkey a prodigy at the video game Guitar Hero at age 5 and sometimes attracted crowds when I played the demos at the local Best Buy. Legend has it that I could finish Through the Fire and Flames on Expert back then (not anymore though)."
 	},
 
 	{
@@ -636,22 +640,28 @@
 
 	{
 		"name": "Jane Sun",
-		"image": "headshots/placeholder.jpg",
+		"image": "headshots/Jane-Sun.jpg",
 		"role": "Member",
-		"from": "",
+		"from": "Beijing, China",
 		"year": "First-Year",
 		"committee": "Marketing",
+		"enjoy": "I love the supportive community and the passion everyone has!",
+		"favorite song": "Don't Stop Me Now by Queen",
+		"funfact": "Two of my bikes have gotten stolen before :(",
 		"website": "https://www.linkedin.com/in/weijie-jane-sun/"
 	},
 
 
 	{
 		"name": "Miranda Zhu",
-		"image": "headshots/placeholder.jpg",
+		"image": "headshots/Miranda-Zhu.jpg",
 		"role": "Member",
-		"from": "",
+		"from": "Shenzhen, China",
 		"year": "Third-Year",
-		"committee": "Marketing"
+		"committee": "Marketing",
+		"enjoy": "Everything.",
+		"favorite song": "No",
+		"funfact": "I hate cs."
 	},
 
 	{
