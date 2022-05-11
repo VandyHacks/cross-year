@@ -4,7 +4,9 @@ import Footer from "../components/Footer";
 import AboutEgg from "../public/svgs/about_egg.svg";
 import TopBar from "../public/svgs/top_bar_header.svg";
 import EventShowcase from "../components/EventShowcase";
+import GalleryShowcase from "../components/GalleryShowcase";
 import KeepInTouch from "../components/KeepInTouch";
+
 
 const Hackathons = () => {
   return (
@@ -20,6 +22,12 @@ const Hackathons = () => {
           Swipe below to see promotional websites for past VandyHacks!
         </div>
         <EventShowcase />
+
+        <div className="mt-10 text-2xl">
+          Swipe to see VH in action!
+        </div>
+        <GalleryShowcase />
+
       </div>
       <TopBar className="fill-[#B0CEE3]" />
       <KeepInTouch />
