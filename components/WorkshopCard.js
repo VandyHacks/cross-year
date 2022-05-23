@@ -13,8 +13,8 @@ export const WorkshopCard = ({ workshopData }) => {
       />
       {repoLink?.length && (
         <a target="_blank" rel="noopener noreferrer" href={repoLink}>
-          <div className="scale-[80%] rounded-xl text-lg absolute bottom-2 py-3 px-5 bg-white text-[#28315A] outline outline-1 outline-[#28315A]">
-            View Repo
+          <div className="scale-[80%] rounded-xl text-lg absolute bottom-2 py-3 px-5 bg-[#28315A] text-white">
+            View Repo!
           </div>
         </a>
       )}
