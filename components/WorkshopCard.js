@@ -3,7 +3,7 @@ import Image from "next/image";
 export const WorkshopCard = ({ workshopData }) => {
   const { name, description, imgUrl, repoLink, videoLink } = workshopData;
   return (
-    <div className="relative bg-white text-xs  w-[360px] h-[480px] text-left rounded-3xl shadow-xl overflow-hidden hover:scale-[105%] transition duration-200">
+    <div className="relative bg-white text-xs  w-[360px] h-[520px] text-left rounded-3xl shadow-xl overflow-hidden hover:scale-[105%] transition duration-200">
       <Image
         className=" transition duration-200 bg-[#28315A]"
         src={imgUrl}
@@ -11,6 +11,13 @@ export const WorkshopCard = ({ workshopData }) => {
         width={360}
         height={240}
       />
+      {repoLink?.length && (
+        <a target="_blank" rel="noopener noreferrer" href={repoLink}>
+          <div className="scale-[80%] rounded-xl text-lg absolute bottom-2 py-3 px-5 bg-white text-[#28315A] outline outline-1 outline-[#28315A]">
+            View Repo
+          </div>
+        </a>
+      )}
       {videoLink?.length && (
         <a target="_blank" rel="noopener noreferrer" href={videoLink}>
           <div className="scale-[80%] rounded-xl text-lg absolute bottom-2 right-1 py-3 px-5 bg-[#28315A] text-white">
