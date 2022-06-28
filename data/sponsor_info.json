@@ -108,6 +108,12 @@
     },
 
     {
+        "name": "Major League Hacking",
+        "imgUrl": "/sponsors/mlh.png",
+        "link": "https://mlh.io/"
+    },
+
+    {
         "name": "Red Ventures",
         "imgUrl": "/sponsors/red-ventures.png",
         "link": "https://www.redventures.com/careers"
