@@ -1,18 +1,18 @@
 /* eslint-disable @next/next/no-img-element */
-import Head from "next/head";
-import Image from "next/image";
-import styles from "../styles/Home.module.css";
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
-import Link from "next/link";
-import React from "react";
-import HappeningNowEgg from "../public/svgs/happening_now.svg";
-import { Button } from "../components/Button";
-import { MobileHappeningNow } from "../components/MobileHappeningNow";
-import BottomSBlue from "../public/svgs/blue_on_white_bottom.svg";
-import { ArrowCircleRightIcon } from "@heroicons/react/outline";
-import KeepInTouch from "../components/KeepInTouch";
-import { SponsorShowcase } from "../components/SponsorShowcase";
+import Head from 'next/head';
+import Image from 'next/image';
+import styles from '../styles/Home.module.css';
+import Navbar from '../components/Navbar';
+import Footer from '../components/Footer';
+import Link from 'next/link';
+import React from 'react';
+import HappeningNowEgg from '../public/svgs/happening_now.svg';
+import { Button } from '../components/Button';
+import { MobileHappeningNow } from '../components/MobileHappeningNow';
+import BottomSBlue from '../public/svgs/blue_on_white_bottom.svg';
+import { ArrowCircleRightIcon } from '@heroicons/react/outline';
+import KeepInTouch from '../components/KeepInTouch';
+import { SponsorShowcase } from '../components/SponsorShowcase';
 const Home = () => {
   return (
     <div className="text-[#28315A]">

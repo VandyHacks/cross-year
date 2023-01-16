@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState } from 'react';
 
 const CollapsingNav = ({ isOpen, setIsOpen }) => {
   return (
@@ -8,8 +8,7 @@ const CollapsingNav = ({ isOpen, setIsOpen }) => {
         type="button"
         className=""
         aria-controls="mobile-menu"
-        aria-expanded="false"
-      >
+        aria-expanded="false">
         {!isOpen ? (
           <svg
             className="block h-6 w-6"
@@ -17,8 +16,7 @@ const CollapsingNav = ({ isOpen, setIsOpen }) => {
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor"
-            aria-hidden="true"
-          >
+            aria-hidden="true">
             <path
               strokeLinecap="round"
               strokeLinejoin="round"
@@ -34,8 +32,7 @@ const CollapsingNav = ({ isOpen, setIsOpen }) => {
               fill="none"
               viewBox="0 0 24 24"
               stroke="currentColor"
-              aria-hidden="true"
-            >
+              aria-hidden="true">
               <path
                 strokeLinecap="round"
                 strokeLinejoin="round"

@@ -1,54 +1,54 @@
 [
-	{
-		"name": "Blockchain Workshop",
-		"description": "Curious about blockchain development? VandyHacks and Vanderbilt Blockchain are hosting a workshop together to teach you everything you need to know about starting your blockchain development career!",
-		"imgUrl": "/workshops/blockchain.jpeg",
-		"repoLink": "https://github.com/VandyHacks/22S-Blockchain-Workshop"
-	},
-	{
-		"name": "Data Science 1010101",
-		"description": "Data science is a rapidly growing field crucial to any modern-day company's success, which means it's also important to us college kids!",
-		"imgUrl": "/workshops/datascience.jpeg",
-		"repoLink": "https://github.com/VandyHacks/22S-Data-Science-Workshop"
-	},
-	{
-		"name": "The Power of LaTeX",
-		"description": "If you haven’t heard of LaTeX before, all the more reason to come to our workshop! LaTex is a hugely popular tool for writing professional documents in academia. It's great for students who have to write everything from research papers to resumes.",
-		"imgUrl": "/workshops/datascience.jpeg",
-		"repoLink": "https://github.com/VandyHacks/22S-LaTeX-Workshop"
-	},
-	{
-		"name": "Full Stack Development Workshop #1",
-		"description": "This workshop introduces you to web development. No prior experience needed!",
-		"imgUrl": "/workshops/fullstack.jpeg",
-		"videoLink": "https://www.youtube.com/watch?v=axmW8t08s4c",
-		"repoLink": "https://github.com/VH-Mentorship/workshop"
-	},
-	{
-		"name": "Full Stack Development Workshop #2",
-		"description": "This workshop teaches the basics of React.js to create a responsive to-do list.",
-		"imgUrl": "/workshops/fullstack.jpeg",
-		"videoLink": "https://www.youtube.com/watch?v=ZdttLq9D7Uo",
-		"repoLink": "https://github.com/VH-Mentorship/workshop3setup"
-	},
-	{
-		"name": "Full Stack Development Workshop #3",
-		"description": "This workshop introduces Firebase to store data and authenticate users.",
-		"imgUrl": "/workshops/fullstack.jpeg",
-		"videoLink": "https://www.youtube.com/watch?v=ZP3ECTqpquA",
-		"repoLink": "https://github.com/VH-Mentorship/workshop4setup"
-	},
-	{
-		"name": "Full Stack Development Workshop #4 (Finale)",
-		"description": "This workshop will help you pull Brightspace assignments and learn how to deploy your project on the Internet.",
-		"imgUrl": "/workshops/fullstack.jpeg",
-		"videoLink": "https://www.youtube.com/watch?v=7LnYXnKgNcU",
-		"repoLink": "https://github.com/VH-Mentorship/workshop-completed"
-	},
-	{
-		"name": "Holiday Workshop",
-		"description": "Learn how to build a Chrome extension that spice up websites with holiday spirit!",
-		"imgUrl": "/workshops/holiday.jpeg",
-		"repoLink": "https://github.com/VandyHacks/21F-Holiday-Workshop"
-	}
+  {
+    "name": "Blockchain Workshop",
+    "description": "Curious about blockchain development? VandyHacks and Vanderbilt Blockchain are hosting a workshop together to teach you everything you need to know about starting your blockchain development career!",
+    "imgUrl": "/workshops/blockchain.jpeg",
+    "repoLink": "https://github.com/VandyHacks/22S-Blockchain-Workshop"
+  },
+  {
+    "name": "Data Science 1010101",
+    "description": "Data science is a rapidly growing field crucial to any modern-day company's success, which means it's also important to us college kids!",
+    "imgUrl": "/workshops/datascience.jpeg",
+    "repoLink": "https://github.com/VandyHacks/22S-Data-Science-Workshop"
+  },
+  {
+    "name": "The Power of LaTeX",
+    "description": "If you haven’t heard of LaTeX before, all the more reason to come to our workshop! LaTex is a hugely popular tool for writing professional documents in academia. It's great for students who have to write everything from research papers to resumes.",
+    "imgUrl": "/workshops/datascience.jpeg",
+    "repoLink": "https://github.com/VandyHacks/22S-LaTeX-Workshop"
+  },
+  {
+    "name": "Full Stack Development Workshop #1",
+    "description": "This workshop introduces you to web development. No prior experience needed!",
+    "imgUrl": "/workshops/fullstack.jpeg",
+    "videoLink": "https://www.youtube.com/watch?v=axmW8t08s4c",
+    "repoLink": "https://github.com/VH-Mentorship/workshop"
+  },
+  {
+    "name": "Full Stack Development Workshop #2",
+    "description": "This workshop teaches the basics of React.js to create a responsive to-do list.",
+    "imgUrl": "/workshops/fullstack.jpeg",
+    "videoLink": "https://www.youtube.com/watch?v=ZdttLq9D7Uo",
+    "repoLink": "https://github.com/VH-Mentorship/workshop3setup"
+  },
+  {
+    "name": "Full Stack Development Workshop #3",
+    "description": "This workshop introduces Firebase to store data and authenticate users.",
+    "imgUrl": "/workshops/fullstack.jpeg",
+    "videoLink": "https://www.youtube.com/watch?v=ZP3ECTqpquA",
+    "repoLink": "https://github.com/VH-Mentorship/workshop4setup"
+  },
+  {
+    "name": "Full Stack Development Workshop #4 (Finale)",
+    "description": "This workshop will help you pull Brightspace assignments and learn how to deploy your project on the Internet.",
+    "imgUrl": "/workshops/fullstack.jpeg",
+    "videoLink": "https://www.youtube.com/watch?v=7LnYXnKgNcU",
+    "repoLink": "https://github.com/VH-Mentorship/workshop-completed"
+  },
+  {
+    "name": "Holiday Workshop",
+    "description": "Learn how to build a Chrome extension that spice up websites with holiday spirit!",
+    "imgUrl": "/workshops/holiday.jpeg",
+    "repoLink": "https://github.com/VandyHacks/21F-Holiday-Workshop"
+  }
 ]

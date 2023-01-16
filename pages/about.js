@@ -1,11 +1,11 @@
-import React from "react";
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
-import Image from "next/image";
-import AboutEgg from "../public/svgs/about_egg.svg";
-import TopBar from "../public/svgs/top_bar_header.svg";
-import MemberShowcase from "../components/MemberShowcase";
-import KeepInTouch from "../components/KeepInTouch";
+import React from 'react';
+import Navbar from '../components/Navbar';
+import Footer from '../components/Footer';
+import Image from 'next/image';
+import AboutEgg from '../public/svgs/about_egg.svg';
+import TopBar from '../public/svgs/top_bar_header.svg';
+import MemberShowcase from '../components/MemberShowcase';
+import KeepInTouch from '../components/KeepInTouch';
 
 const About = () => {
   return (
@@ -22,10 +22,10 @@ const About = () => {
             <p>
               We are an organization dedicated to fostering hacker culture and
               building a computer science community at Vanderbilt University! We
-              accomplish this by hosting an annual hackathon—a 36-hour
-              software development marathon during which attendees think of an
-              idea and build it—alongside regular hack nights, study
-              nights, and many other fun events!
+              accomplish this by hosting an annual hackathon—a 36-hour software
+              development marathon during which attendees think of an idea and
+              build it—alongside regular hack nights, study nights, and many
+              other fun events!
             </p>
           </div>
         </div>
@@ -49,10 +49,9 @@ const About = () => {
             />
             <div className="text-2xl text-left font-normal pt-10 md:pt-0 md:pl-20 leading-10 w-[80%] md:w-[60%]">
               <p>
-                The VandyHacks Board consists of 7 committees and 
-                around 60 organizers who are committed to creating 
-                learning experiences that are accessible
-                and applicable to all. Meet the team below!
+                The VandyHacks Board consists of 7 committees and around 60
+                organizers who are committed to creating learning experiences
+                that are accessible and applicable to all. Meet the team below!
               </p>
             </div>
           </div>

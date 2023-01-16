@@ -1,8 +1,8 @@
-import React from "react";
-import Footer from "../components/Footer";
-import KeepInTouch from "../components/KeepInTouch";
-import Navbar from "../components/Navbar";
-import { WorkshopShowcase } from "../components/WorkshopShowcase";
+import React from 'react';
+import Footer from '../components/Footer';
+import KeepInTouch from '../components/KeepInTouch';
+import Navbar from '../components/Navbar';
+import { WorkshopShowcase } from '../components/WorkshopShowcase';
 
 const Workshops = () => {
   return (

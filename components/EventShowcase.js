@@ -1,5 +1,5 @@
-import React from "react";
-import Image from "next/image";
+import React from 'react';
+import Image from 'next/image';
 
 const EventShowcase = () => {
   return (
@@ -17,8 +17,7 @@ const EventShowcase = () => {
             target="_blank"
             href="https://viii.vandyhacks.org/"
             rel="noopener noreferrer"
-            className="hover:cursor-pointer text-white font-mono text-lg lg:text-3xl"
-          >
+            className="hover:cursor-pointer text-white font-mono text-lg lg:text-3xl">
             Click Here To Visit VH VIII (Space Edition)
           </a>
         </div>
@@ -37,8 +36,7 @@ const EventShowcase = () => {
             target="_blank"
             href="https://vii.vandyhacks.org/"
             rel="noopener noreferrer"
-            className="hover:cursor-pointer text-[#691335] font-mono text-lg lg:text-3xl"
-          >
+            className="hover:cursor-pointer text-[#691335] font-mono text-lg lg:text-3xl">
             Click Here To Visit VH VII (Retro Edition)
           </a>
         </div>
@@ -56,8 +54,7 @@ const EventShowcase = () => {
             target="_blank"
             href="https://vi.vandyhacks.org/"
             rel="noopener noreferrer"
-            className="hover:cursor-pointer text-[#1C53A0] font-mono text-lg lg:text-3xl"
-          >
+            className="hover:cursor-pointer text-[#1C53A0] font-mono text-lg lg:text-3xl">
             Click Here To Visit VH VI (Art Edition)
           </a>
         </div>

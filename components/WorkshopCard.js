@@ -1,5 +1,5 @@
-import React from "react";
-import Image from "next/image";
+import React from 'react';
+import Image from 'next/image';
 export const WorkshopCard = ({ workshopData }) => {
   const { name, description, imgUrl, repoLink, videoLink } = workshopData;
   return (
@@ -30,8 +30,7 @@ export const WorkshopCard = ({ workshopData }) => {
           target="_blank"
           rel="noopener noreferrer"
           className="font-bold inline text-bold text-2xl"
-          href={repoLink}
-        >
+          href={repoLink}>
           {name}
         </a>
       </div>

@@ -1,5 +1,5 @@
-import React from "react";
-import { ArrowCircleRightIcon } from "@heroicons/react/outline";
+import React from 'react';
+import { ArrowCircleRightIcon } from '@heroicons/react/outline';
 const KeepInTouch = () => {
   return (
     <div>
@@ -8,7 +8,7 @@ const KeepInTouch = () => {
       </div>
 
       <div className="mt-7 flex flex-col justify-center items-center top-[calc(54vh + 1.2em)]">
-      <form name="contact" method="POST" data-netlify="true">
+        <form name="contact" method="POST" data-netlify="true">
           <div className="text-center relative mt-[10px] w-[175px] sm:w-[305px] inline-block ">
             <input
               type="email"
