@@ -55,7 +55,7 @@ const Home = () => {
             Applications for VandyHacks X board members are officially open!
           </p>
           <p>
-            If you're interested in shaping
+            If you&apos;re interested in shaping
             <b> one of the largest STEM organizations + events at Vanderbilt</b>
             , the VandyHacks board is the place to be!
           </p>
