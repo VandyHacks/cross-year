@@ -43,30 +43,26 @@ const Home = () => {
         {/* box here with mobile stuff load if resolution is a certain size */}
 
         <div className="w-[70%] sm:w-[100%] mx-auto sm:mt-0 font-semibold bg-no-repeat bg-center text-center bg-[url('/svgs/yellow_title.svg')]  leading-4 h-16 text-2xl sm:text-3xl">
-          Coming Soon
+          Applications is now OPEN!
         </div>
         <div className="block sm:w-[50%] w-0 m-auto">
           <HappeningNowEgg />
         </div>
         <div className="text-center mb-28 w-[80%] md:w-[70%] lg:w-[50%] mx-auto">
-          <p className="font-bold text-lg">VandyHacks IX</p>
-          <p className="m-4 text-base bold italic">
-            October 21 - October 23, 2022
+          <p className="font-bold text-lg">VandyHacks X</p>
+          <p className="m-4 text-base bold italic">October 2023</p>
+          <p>
+            Applications for VandyHacks X board members are officially open!
           </p>
           <p>
-            Mark your calendar! VandyHacks IX Hackathon is happening this
-            October, 2022!
-          </p>
-          <p>
-            This hackathon will be <b>fully in-person</b>, and we have prepared
-            plethora of workshops and events to help you get started even if it
-            is your first Hackathon event!
+            If you're interested in shaping
+            <b> one of the largest STEM organizations + events at Vanderbilt</b>
+            , the VandyHacks board is the place to be!
           </p>
 
-          {/* <Button
-						text="VandyHacks IX"
-						link="https://www.vandyhacks.org"
-					/> */}
+          <br />
+
+          <Button text="Apply to VHX!" link="https://vhl.ink/application" />
         </div>
       </div>
 

@@ -1,5 +1,7 @@
 import React from 'react';
 import { ArrowCircleRightIcon } from '@heroicons/react/outline';
+import { Button } from './Button';
+
 const KeepInTouch = () => {
   return (
     <div>
@@ -27,7 +29,7 @@ const KeepInTouch = () => {
       </div>
 
       <div className="mt-16 mb-28  font-semibold text-center">
-        <p>Check back later for VH IX application!</p>
+        <Button text="Apply to VHX!" link="https://vhl.ink/application" />
       </div>
     </div>
   );
