@@ -43,7 +43,7 @@ const Home = () => {
         {/* box here with mobile stuff load if resolution is a certain size */}
 
         <div className="w-[70%] sm:w-[100%] mx-auto sm:mt-0 font-semibold bg-no-repeat bg-center text-center bg-[url('/svgs/yellow_title.svg')]  leading-4 h-16 text-2xl sm:text-3xl">
-          Applications is now OPEN!
+          Applications are now OPEN!
         </div>
         <div className="block sm:w-[50%] w-0 m-auto">
           <HappeningNowEgg />
