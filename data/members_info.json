@@ -751,19 +751,6 @@
   }, 
 
   {
-    "name": "Evelyn Zhang",
-    "image": "",
-    "role": "Member",
-    "from": "Cleveland, OH",
-    "year": "Second-Year",
-    "committee": "Hacker Experience",
-    "enjoy": "Everyone in VH seems super cool!",
-    "favorite song": "",
-    "funfact": "I have a pet turtle",
-    "website": ""
-  },
-
-  {
     "name": "Jiashu (Harry) Huang",
     "image": "headshots/Jiashu-Huang.JPG",
     "role": "Member",
@@ -773,19 +760,6 @@
     "enjoy": "For Zi",
     "favorite song": "The Disease called love - Mafumafu",
     "funfact": "",
-    "website": ""
-  },
-  
-  {
-    "name": "Connie Chen",
-    "image": "",
-    "role": "Member",
-    "from": "St.Louis, MO",
-    "year": "Fourth-Year",
-    "committee": "Operations",
-    "enjoy": "I love VH because of the people. Everyone here is so passionate about CS, and is excited to work on initiatives that make an impact on-campus and nationally. ",
-    "favorite song": "“Mine” by Bazzi",
-    "funfact": "In my free time, I love to take photos, skateboard, and travel to new places.",
     "website": ""
   },
 
@@ -800,32 +774,5 @@
     "favorite song": "Fake Plastic Trees - Radiohead",
     "funfact": "I’ve met Quavo",
     "website": ""
-  }, 
-
-  {
-    "name": "Jaden Huppert",
-    "image": "",
-    "role": "Member",
-    "from": "Las Vegas, NV",
-    "year": "Second-Year",
-    "committee": "Hacker Experience",
-    "enjoy": "",
-    "favorite song": "",
-    "funfact": "",
-    "website": ""
-  },
-
-  {
-    "name": "Reed Miller",
-    "image": "",
-    "role": "Member",
-    "from": "Virginia Beach, VA",
-    "year": "Third-Year",
-    "committee": "Sponsorship",
-    "enjoy": "I want to meet likeminded people and learn more about networking in the CS industry",
-    "favorite song": "Maine - Noah Kahan",
-    "funfact": "I worked at a haunted house in high school",
-    "website": ""
   }
-  
 ]
