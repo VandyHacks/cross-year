@@ -1,18 +1,5 @@
 [
   {
-    "name": "Sarene Mun",
-    "image": "headshots/Sarene-Mun.jpg",
-    "role": "Member",
-    "from": "New York, NY",
-    "year": "Fourth-Year",
-    "committee": "Hacker Experience",
-    "enjoy": "I love being able to create fun and accessible activities for the CS community.",
-    "favorite song": "Ba-Da-Ba 2 Mello",
-    "funfact": "I already have some gray hair.",
-    "website": "https://www.linkedin.com/in/sarenemun/"
-  },
-
-  {
     "name": "Kyle Burgess",
     "image": "headshots/Kyle-Burgess.jpeg",
     "role": "Director",
