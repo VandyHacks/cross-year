@@ -67,10 +67,10 @@ const Home = () => {
       </div>
 
       {/* sponsors */}
-      <div className="z-10 w-[100%]">
+      <div className="z-10 w-screen">
         <img
           alt="squiggly lines"
-          className="contain length -mb-[5px]"
+          className="contain w-full -mb-[5px]"
           src="/svgs/landing_section_three_top.svg"
         />
         <div className="w-[100%] bg-[#fbf1bc]">
