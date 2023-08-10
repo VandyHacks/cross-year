@@ -24,19 +24,19 @@ const Upcoming = () => {
         <div className="mt-[2rem] text-lg mx-4 leading-7 p-3 md:text-xl md:mx-[4rem] md:leading-9 md:p-6 rounded-3xl">
             <p>
               <b>What is a hackathon?</b><br/>
-              Hackathons are events where students across the country come together for a weekend of innovation and creativity. Participants at VandyHacks have 36 hours to create anything that shows off their creativity and passion! You may choose any platform, programming language, or format to show off to our judges - you can even present a storyboard or an idea! At VandyHacks, there's no end to the possibilities.
+              Hackathons are events where students across the country come together for a weekend of innovation and creativity. Participants at VandyHacks have 36 hours to create anything that shows off their creativity and passion! You may choose any platform, programming language, or format to show off to our judges - you can even present a storyboard or an idea! At VandyHacks, there&apos;s no end to the possibilities.
             </p><br/>
             <p>
                 <b>How do I register?</b><br/>
-                When applications are open, you will be able to sign in to apply.vandyhacks.org, or click our application button. You'll be able to check the status of your application on the registration portal as well.
+                When applications are open, you will be able to sign in to apply.vandyhacks.org, or click our application button. You&apos;ll be able to check the status of your application on the registration portal as well.
             </p><br/>
             <p>
               <b>When is the registration deadline?</b><br/>
               More details on registration will be out soon! We anticipate registration to start in mid-August and close in early October. Travel reimbursement applications will likely be due early September.
             </p><br/>
             <p>
-              <b>What if I've never been to a hackathon?</b><br/>
-              Not to worry! A few days before the event, you'll receive an email with a link to our hacker guide, which will contain all the information you need. During the event, our team will be available to answer any questions. As always, feel free to email us at info@vandyhacks.org if you have any questions!
+              <b>What if I&apos;ve never been to a hackathon?</b><br/>
+              Not to worry! A few days before the event, you&apos;ll receive an email with a link to our hacker guide, which will contain all the information you need. During the event, our team will be available to answer any questions. As always, feel free to email us at info@vandyhacks.org if you have any questions!
             </p><br/>
           </div>
 
