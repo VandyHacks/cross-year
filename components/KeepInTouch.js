@@ -29,7 +29,7 @@ const KeepInTouch = () => {
       </div>
 
       <div className="mt-16 mb-28  font-semibold text-center">
-        <Button text="Apply to VHX!" link="https://apply.vandyhacks.org" />
+        <Button text="Apply to VHX!" link="https://www.vandyhacks.org" />
       </div>
     </div>
   );

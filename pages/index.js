@@ -62,7 +62,7 @@ const Home = () => {
 
           <br />
 
-          <Button text="Apply to VHX!" link="https://apply.vandyhacks.org" />
+          <Button text="Apply to VHX!" link="https://www.vandyhacks.org" />
         </div>
       </div>
 
