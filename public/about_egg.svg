@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 739 729" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <path d="M431.15,125.385C551.68,161.161 696.362,213.753 696.045,341.194C695.702,479.07 561.995,568.25 429.961,603.726C305.495,637.168 163.47,612.754 97.202,502.094C36.286,400.372 101.991,277.777 181.235,188.386C244.781,116.704 340.539,98.489 431.15,125.385Z" style="fill:url(#_Linear1);"/>
-    <path d="M413.339,89.762C533.868,125.538 678.55,178.13 678.234,305.571C677.891,443.447 544.184,532.627 412.149,568.102C287.683,601.544 145.659,577.131 79.39,466.471C18.474,364.749 84.18,242.154 163.424,152.763C226.97,81.08 322.727,62.866 413.339,89.762Z" style="fill:rgb(196,196,196);"/>
-    <clipPath id="_clip2">
-        <path d="M413.339,89.762C533.868,125.538 678.55,178.13 678.234,305.571C677.891,443.447 544.184,532.627 412.149,568.102C287.683,601.544 145.659,577.131 79.39,466.471C18.474,364.749 84.18,242.154 163.424,152.763C226.97,81.08 322.727,62.866 413.339,89.762Z"/>
-    </clipPath>
-    <g clip-path="url(#_clip2)">
-        <g id="v66_1069.png" transform="matrix(1,0,0,1,-321.906,18)">
-            <use xlink:href="#_Image3" x="0" y="0" width="1440px" height="693px"/>
-        </g>
-    </g>
-    <defs>
-        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.928,488.046,-488.046,-1.928,473.935,137.703)"><stop offset="0" style="stop-color:rgb(40,49,90);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(176,206,227);stop-opacity:1"/></linearGradient>
-        <image id="_Image3" width="1440px" height="693px" xlink:href="./smile_people.png" />
-    </defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" version="1.1" viewBox="0 0 739 729" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"><path d="M431.15,125.385C551.68,161.161 696.362,213.753 696.045,341.194C695.702,479.07 561.995,568.25 429.961,603.726C305.495,637.168 163.47,612.754 97.202,502.094C36.286,400.372 101.991,277.777 181.235,188.386C244.781,116.704 340.539,98.489 431.15,125.385Z" style="fill:url(#_Linear1)"/><path d="M413.339,89.762C533.868,125.538 678.55,178.13 678.234,305.571C677.891,443.447 544.184,532.627 412.149,568.102C287.683,601.544 145.659,577.131 79.39,466.471C18.474,364.749 84.18,242.154 163.424,152.763C226.97,81.08 322.727,62.866 413.339,89.762Z" style="fill:#c4c4c4"/><clipPath id="_clip2"><path d="M413.339,89.762C533.868,125.538 678.55,178.13 678.234,305.571C677.891,443.447 544.184,532.627 412.149,568.102C287.683,601.544 145.659,577.131 79.39,466.471C18.474,364.749 84.18,242.154 163.424,152.763C226.97,81.08 322.727,62.866 413.339,89.762Z"/></clipPath><g clip-path="url(#_clip2)"><g id="v66_1069.png" transform="matrix(1,0,0,1,-321.906,18)"><use width="1440" height="693" x="0" y="0" xlink:href="#_Image3"/></g></g><defs><linearGradient id="_Linear1" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(-1.928,488.046,-488.046,-1.928,473.935,137.703)" gradientUnits="userSpaceOnUse"><stop offset="0" style="stop-color:#28315a;stop-opacity:1"/><stop offset="1" style="stop-color:#b0cee3;stop-opacity:1"/></linearGradient><image id="_Image3" width="1440" height="693" xlink:href="./smile_people.png"/></defs></svg>
