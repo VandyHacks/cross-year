@@ -43,6 +43,13 @@ const Navbar = () => {
             <a>Past Hackathons</a>
           </Link>
         </div>
+        <div
+          className="hidden sm:block text-base m-[20px] hover:underline"
+          id="hackathons">
+          <Link href="/upcoming">
+            <a>Upcoming Hackathons</a>
+          </Link>
+        </div>
         <CollapsingNav setIsOpen={setIsOpen} isOpen={isOpen} />
       </div>
       {isOpen ? (
@@ -72,6 +79,12 @@ const Navbar = () => {
               className="text-center text-white hover:bg-[#37406c]  block px-3 py-2 rounded-md text-base font-medium">
               {' '}
               Past Hackathons{' '}
+            </a>
+            <a
+              href="/upcoming"
+              className="text-center text-white hover:bg-[#37406c]  block px-3 py-2 rounded-md text-base font-medium">
+              {' '}
+              Upcoming Hackathons{' '}
             </a>
           </div>
         </div>
