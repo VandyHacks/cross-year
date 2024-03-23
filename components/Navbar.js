@@ -9,7 +9,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
     <>
-      <div className="sticky pb-4 sm:pb-0 top-0 z-50 bg-[#28315a] border-b-2 border-black drop-shadow-xl filter shadow-md flex justify-start text-xl px-3 md:pr-20 font-semibold text-white">
+      <div className="sticky pb-4 sm:pb-0 top-0 z-50 bg-[#FFFFE0] border-b-2 border-blue drop-shadow-xl filter shadow-md flex justify-start text-xl px-3 md:pr-20 font-semibold text-black">
         <div className="hidden sm:inline-block ml-[8px] sm:ml-[40px] mr-auto mt-3 w-[40px] h-[40px]">
           <Link href="/">
             <Image
@@ -91,7 +91,7 @@ const Navbar = () => {
       ) : null}
       <img
         className="fixed right-3 md:right-10 top-0 w-16 md:w-20 z-50"
-        src="/misc/mlh-ribbon-white.png"
+        src="/misc/mlh-trust-badge-2024-gray.png"
         alt="Major League Hacking logo"
       />
     </>
