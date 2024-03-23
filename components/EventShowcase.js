@@ -9,6 +9,25 @@ const EventShowcase = () => {
           className="sm:border rounded-3xl"
           layout="fill"
           objectFit="cover"
+          alt="VH10 website"
+          src="/misc/vh_x.png"
+        />
+        <div className="absolute backdrop-blur-sm bg-white/[15%] py-5 w-full bottom-0">
+          <a
+            target="_blank"
+            href="https://x.vandyhacks.org/"
+            rel="noopener noreferrer"
+            className="hover:cursor-pointer text-[#FFFFFF] font-mono text-lg lg:text-3xl">
+            Click Here To Visit VH X (Neon Edition)
+          </a>
+        </div>
+      </div>
+
+      <div className="snap-start w-full md:w-[650px] lg:w-[1000px] flex-shrink-0 flex items-center justify-center relative">
+        <Image
+          className="sm:border rounded-3xl"
+          layout="fill"
+          objectFit="cover"
           alt="VH9 website"
           src="/misc/vh_ix.png"
         />
@@ -22,7 +41,7 @@ const EventShowcase = () => {
           </a>
         </div>
       </div>
-    
+
       <div className="snap-start w-full md:w-[650px] lg:w-[1000px] flex-shrink-0 flex items-center justify-center relative">
         <Image
           className="sm:border rounded-3xl"
