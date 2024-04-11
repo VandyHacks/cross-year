@@ -91,7 +91,7 @@ const Navbar = () => {
       ) : null}
       <img
         className="fixed right-3 md:right-10 top-0 w-16 md:w-20 z-50"
-        src="/misc/mlh-ribbon-white.png"
+        src="/misc/mlh-trust-badge-2024-gray.png"
         alt="Major League Hacking logo"
       />
     </>
