@@ -30,9 +30,13 @@ const MemberShowcase = () => {
 
   useEffect(() => {
     const randomList = memberList.sort(() => 0.5 - Math.random());
+    let committee = committeeName;
+    committee = committee.replace("Dev", "Development");
+    committee = committee.replace("HE", "Hacker Experience");
+
     const filteredList = randomList.filter(
       member =>
-        committeeName == 'All' || member.committee.includes(committeeName)
+        committeeName == 'All' || member.committee.includes(committee)
     );
     setTeamList(filteredList);
   }, [memberList, committeeName]);

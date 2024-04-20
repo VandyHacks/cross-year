@@ -1,765 +1,970 @@
 [
-  {
-    "name": "Kyle Burgess",
-    "image": "headshots/Kyle-Burgess.jpeg",
-    "role": "Director",
-    "from": "Charlotte, NC",
-    "year": "Third-Year",
-    "committee": "Content",
-    "enjoy": "Everyone is so nice",
-    "favorite song": "Enough by Private Island",
-    "funfact": "I have chronic hiccups.",
-    "website": "https://www.linkedin.com/in/kyle-m-burgess/"
-  },
-
-  {
-    "name": "Haoli Yin",
-    "image": "headshots/Haoli-Yin.jpg",
-    "role": "Member",
-    "from": "Katy, TX",
-    "year": "Third-Year",
-    "committee": "Sponsorship",
-    "enjoy": "Making money to increase accessibility to CS",
-    "favorite song": "Hero by Faouzia",
-    "funfact": "I play competitive Tetris",
-    "website": "https://www.linkedin.com/in/haoliyin/"
-  },
-
-  {
-    "name": "Kevin Jin",
-    "image": "headshots/Kevin-Jin.JPG",
-    "role": "Committee Advisor",
-    "from": "Davidson, NC",
-    "year": "Fourth-Year",
-    "committee": "Content",
-    "enjoy": "Great community and super positive impact as Vandy CS grows!",
-    "favorite song": "\"I’m Content President\" by Nisala",
-    "funfact": "I know how to code",
-    "website": "https://www.linkedin.com/in/kevin-t-jin/"
-  },
-
-  {
-    "name": "Izzy Hood",
-    "image": "headshots/Izzy-Hood.jpeg",
-    "role": "Committee Advisor",
-    "from": "Tallahassee, FL",
-    "year": "Graduated",
-    "committee": "Operations",
-    "enjoy": "The people! Organizing a major hackathon is a lot more fun when you're working alongside great people! Shoutout Ops!",
-    "favorite song": "right where you left me - Taylor Swift",
-    "funfact": "I once got 5 stars on all base game songs in Just Dance 4.",
-    "website": "https://www.linkedin.com/in/izzy-hood/"
-  },
-
-  {
-    "name": "Joyce Huang",
-    "image": "headshots/Joyce-Huang.JPG",
-    "role": "Member",
-    "from": "Atlanta, GA",
-    "year": "Fourth-Year",
-    "committee": "Design",
-    "enjoy": "i like art",
-    "favorite song": "you are gold by the national parks",
-    "funfact": "ive never been bit by a shark I;",
-    "website": "https://www.linkedin.com/in/joycehuang614/"
-  },
-
-  {
-    "name": "Abi Kothapalli",
-    "image": "headshots/Abi-Kothapalli.jpeg",
-    "role": "Member",
-    "from": "Overland Park, KS",
-    "year": "Third-Year",
-    "committee": "Development",
-    "enjoy": "The VH community is full of amazing and talented people, and we get to make a huge impact!",
-    "favorite song": "Today by Cordae",
-    "funfact": "I enjoying pouring copious amounts of Sriracha on basically anything I eat",
-    "website": "https://www.linkedin.com/in/abikothapalli/"
-  },
-
-  {
-    "name": "Teyon Herring",
-    "image": "headshots/Teyon-Herring.jpeg",
-    "role": "Member",
-    "from": "Hollywood, FL",
-    "year": "Third-Year",
-    "committee": "Operations",
-    "enjoy": "I thought it would be fun, and I was right.",
-    "favorite song": "World's Smallest Violin by AJR",
-    "funfact": "I live the best Hollywood."
-  },
-
-  {
-    "name": "William Wu",
-    "image": "headshots/William-Wu.jpeg",
-    "role": "Director",
-    "from": "Beijing, China",
-    "year": "Fourth-Year",
-    "committee": "Design, Marketing",
-    "enjoy": "The active and energetic community",
-    "favorite song": "Viva La Vida",
-    "funfact": "I once rode bike for 600 mile across China",
-    "website": "https://www.linkedin.com/in/yifan-william-wu-954688210/"
-  },
-
-  {
-    "name": "Maya Anderson",
-    "image": "headshots/Maya-Anderson.jpg",
-    "role": "",
-    "from": "Atlanta, GA",
-    "year": "Third-Year",
-    "committee": "Co-President",
-    "enjoy": "Crazy passionate about community building, event planning, and innovation and VH has the best of all three on campus!",
-    "favorite song": "Fireside - Arctic Monkeys",
-    "funfact": "Official bee-searcher (bee researcher)",
-    "website": "https://www.linkedin.com/in/k-maya-anderson/"
-  },
-
-  {
-    "name": "Karolina Groszewska",
-    "image": "headshots/Karolina-Groszewska.png",
-    "role": "Senior Advisor",
-    "from": "Warsaw, Poland",
-    "year": "Fourth-Year",
-    "committee": "Marketing",
-    "enjoy": "Making tech accessible and fun for all, one event at a time!",
-    "favorite song": "Zitti e Buoni – Måneskin",
-    "funfact": "I’m a hackathon coach and workshop streamer at MLH!",
-    "website": "https://www.linkedin.com/in/karolina-groszewska?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwxWydB%2FgQVGmNzP28WAFQQ%3D%3D"
-  },
-
-  {
-    "name": "Seth Marx",
-    "image": "headshots/Seth-Marx.jpeg",
-    "role": "Member",
-    "from": "Marlboro, NJ",
-    "year": "Fourth-Year",
-    "committee": "Hacker Experience",
-    "enjoy": "The opportunities to learn more about different areas of computer science.",
-    "favorite song": "Life is a Highway - from Cars",
-    "funfact": "I almost made it onto College Jeopardy."
-  },
-
-  {
-    "name": "Heena Cho",
-    "image": "headshots/Heena-Cho.jpeg",
-    "role": "Committee Advisor",
-    "from": "Seoul, South Korea",
-    "year": "Third-Year",
-    "committee": "Marketing",
-    "enjoy": "Collaboration and making things work! ",
-    "favorite song": "Sober- Childish Gambino",
-    "funfact": "I suddenly developed a pork allergy in high school, but it’s gone now. ",
-    "website": "https://www.linkedin.com/in/heena-cho-81618b233/"
-  },
-
-  {
-    "name": "Maggie Xu",
-    "image": "headshots/Maggie-Xu.jpg",
-    "role": "Committee Advisor, Mentor",
-    "from": "Jonesboro, AR",
-    "year": "Graduated",
-    "committee": "Design",
-    "enjoy": "Working with a group of incredible people with different skillsets! It's so fun getting to brainstorm and share feedback with the design team and work with other committees to bring everything to life.",
-    "favorite song": "I repeatedly listen to songs I like and then have to take a break from them :')",
-    "funfact": "I used to be allergic to the sun.",
-    "website": "https://www.linkedin.com/in/maggiexu000/"
-  },
-
-  {
-    "name": "Violet Peng",
-    "image": "headshots/Violet-Peng.jpeg",
-    "role": "Member",
-    "from": "Nanchang, China / Los Angeles, CA",
-    "year": "Fourth-Year",
-    "committee": "Sponsorship",
-    "enjoy": "Basically where the CS kids congregate. Very chaotic in a good way.",
-    "favorite song": "anything by my little airport",
-    "funfact": "ask me about my collection of purple things (growing)",
-    "website": "https://www.linkedin.com/in/violet-png/"
-  },
-
-  {
-    "name": "Rohit Khurana",
-    "image": "headshots/Rohit-Khurana.jpeg",
-    "role": "Member",
-    "from": "Phoenix, AZ",
-    "year": "Graduated",
-    "committee": "Content",
-    "enjoy": "Love being able to teach relevant CS material to others during workshops. Also love the vibe of the org and getting to know more people through it!",
-    "favorite song": "Tinder Samurai by Samsa",
-    "funfact": "Love to play chess!",
-    "website": "https://www.linkedin.com/in/rohitkhurana23/"
-  },
-
-  {
-    "name": "Sam Sliman",
-    "image": "headshots/Sam-Sliman.jpg",
-    "role": "Member",
-    "from": "Tupelo, MS",
-    "year": "Fourth-Year",
-    "committee": "Content",
-    "enjoy": "I have a secret crush on Nisala",
-    "favorite song": "All Fish Go To Heaven - Loud Noise",
-    "funfact": "I’m dropping a new album soon - be on the lookout for “Where is Davis?”",
-    "website": "https://www.linkedin.com/in/smsliman/"
-  },
-
-  {
-    "name": "Leo Yang",
-    "image": "headshots/Leo-Yang.jpg",
-    "role": "Member",
-    "from": "Kunming, China",
-    "year": "Fourth-Year",
-    "committee": "Operations",
-    "enjoy": "Cool people to be around with.",
-    "favorite song": "One Last Kiss - Hikaru Utada",
-    "funfact": "I like walking and exploring places",
-    "website": "https://www.linkedin.com/in/leo-yang-34a15419b/"
-  },
-
-  {
-    "name": "Richard Song",
-    "image": "headshots/Richard-Song.jpeg",
-    "role": "Member",
-    "from": "Herndon, VA",
-    "year": "Third-Year",
-    "committee": "Content",
-    "enjoy": "The community of like minded peers.",
-    "favorite song": "Tangled by Maroon 5",
-    "funfact": "I can juggle!",
-    "website": "https://www.linkedin.com/in/richard-song-837015198/"
-  },
-
-  {
-    "name": "Jack Long",
-    "image": "headshots/Jack-Long.jpeg",
-    "role": "Director",
-    "from": "Shanghai, China",
-    "year": "Fourth-Year",
-    "committee": "Sponsorship",
-    "enjoy": "Everyone coming together out of sheer passion",
-    "favorite song": "Chemtrails over the country club - Lana Del Rey",
-    "funfact": "I almost got lost in the yosemite mountains once.",
-    "website": "https://www.linkedin.com/in/jacklong0718/"
-  },
-
-  {
-    "name": "Ilya Ermakov",
-    "image": "headshots/Ilya-Ermakov.jpeg",
-    "role": "Committee Advisor",
-    "from": "Tashkent, Uzbekistan",
-    "year": "Graduated",
-    "committee": "Operations",
-    "enjoy": "I like spending time with the friends I made at VandyHacks!",
-    "favorite song": "Joji, Like You Do",
-    "funfact": "I was born on the Pi day.",
-    "website": "https://www.linkedin.com/in/ilya-ermakov/"
-  },
-
-  {
-    "name": "Karen Pu",
-    "image": "headshots/Karen-Pu.jpeg",
-    "role": "Member",
-    "from": "Pleasanton, CA",
-    "year": "Fourth-Year",
-    "committee": "",
-    "enjoy": "The people!",
-    "favorite song": "Domestic Bliss by Glass Animals",
-    "funfact": "I got sent to the ER for a spider bite on the first day of freshman year.",
-    "website": "https://www.linkedin.com/in/karen-pu/"
-  },
-
-  {
-    "name": "Jovian Wang",
-    "image": "headshots/Jovian-Wang.jpeg",
-    "role": "Member",
-    "from": "San Ramon, CA",
-    "year": "Fourth-Year",
-    "committee": "Design",
-    "enjoy": "VandyHacks brings curious minds together and allows people with diverse experiences to work together on something new and fun. It’s a wonderful community and I’m here to do my part!",
-    "favorite song": "No Blueberries - DPR IAN, DPR LIVE, CL",
-    "funfact": "I love snowboarding",
-    "website": "https://www.linkedin.com/in/jovianwang/"
-  },
-
-  {
-    "name": "Austin Wang",
-    "image": "headshots/Austin-Wang.jpeg",
-    "role": "Senior Advisor",
-    "from": "Garden Grove, CA (but actually, it's complicated)",
-    "year": "Graduated",
-    "committee": "",
-    "enjoy": "I love the fact that at one point Kari spent more time with me in a day than she did with her roommate.",
-    "favorite song": "フレスベルグの少女 - Caro",
-    "funfact": "I've had 3 surgeries above my neck, and I'm convinced that aliens put a secret chip in my brain during one of them.",
-    "website": "https://www.linkedin.com/in/austinwwang/"
-  },
-
-  {
-    "name": "Zi Teoh",
-    "image": "headshots/Zi-Teoh.jpeg",
-    "role": "Director",
-    "from": "Kuala Lumpur, Malaysia",
-    "year": "Third-Year",
-    "committee": "Development",
-    "enjoy": "to get unlimited, custom-made stickers for free",
-    "favorite song": "Kill Yourself by Bo Burnham",
-    "funfact": "I once went to the ER because of allergic reaction to advil (now i know)",
-    "website": "https://www.linkedin.com/in/zineanteoh/"
-  },
-
-  {
-    "name": "Nisala Kalupahana",
-    "image": "headshots/Nisala-Kalupahana.JPG",
-    "role": "Member",
-    "from": "Hillsboro, OR",
-    "year": "Fourth-Year",
-    "committee": "Development",
-    "enjoy": "I joined VH to do CS stuff with my friends!",
-    "favorite song": "Night Owl by Dizzy Spells",
-    "funfact": "I’m allergic to cockroaches :(",
-    "website": "https://www.linkedin.com/in/nisala/"
-  },
-
-  {
-    "name": "Aadi Bajpai",
-    "image": "headshots/Aadi-Bajpai.jpeg",
-    "role": "Committee Advisor",
-    "from": "Kanpur, India",
-    "year": "Fourth-Year",
-    "committee": "Content",
-    "enjoy": "nice to mentor young ppl and make meetings fun",
-    "favorite song": "my ex’s best friend by machine gun kelly",
-    "funfact": "we did a competition once with first place prize being $25k. I came second.",
-    "website": "https://www.linkedin.com/in/aadibajpai/"
-  },
-
-  {
-    "name": "Ben Siraphob",
-    "image": "headshots/Ben-Siraphob.jpg",
-    "role": "Member",
-    "from": "Bangkok, Thailand",
-    "year": "Graduated",
-    "committee": "Content, Development",
-    "enjoy": "People come together to solve all kinds of interesting problems, and there's always a familiar face no matter where you are on campus!",
-    "favorite song": "As It Was — Harry Styles",
-    "funfact": "I speak three languages (English, Thai, Spanish)!",
-    "website": "https://siraben.dev/"
-  },
-
-  {
-    "name": "Adaline Leong",
-    "image": "headshots/Adaline-Leong.jpg",
-    "role": "Director",
-    "from": "Phoenix, AZ",
-    "year": "Third-Year",
-    "committee": "Development",
-    "enjoy": "To do cool CS stuff with friends!",
-    "favorite song": "Violin Concerto in E minor, OP. 64 - Mendelssohn",
-    "funfact": "I used to play the viola, violin, and piano",
-    "website": "https://www.linkedin.com/in/jia-yin-leong/"
-  },
-
-  {
-    "name": "Alex Oh",
-    "image": "headshots/Alex-Oh.jpg",
-    "role": "",
-    "from": "Columbia, MD",
-    "year": "Third-Year",
-    "committee": "Co-President",
-    "enjoy": "f",
-    "favorite song": "Brave Shine - Aimer",
-    "funfact": "I lowkey was a guitar hero prodigy when I was 6"
-  },
-
-  {
-    "name": "Jane Sun",
-    "image": "headshots/Jane-Sun.jpeg",
-    "role": "Member",
-    "from": "Beijing, China",
-    "year": "Second-Year",
-    "committee": "Operations",
-    "enjoy": "have fun!!",
-    "favorite song": "Don’t Stop Me Now - Queen",
-    "funfact": "I fell off my bike and went to the ER, then got the bike stolen in the same week",
-    "website": "https://www.linkedin.com/in/weijie-jane-sun/"
-  },
-
-  {
-    "name": "Sneh Patel",
-    "image": "headshots/Sneh-Patel.jpg",
-    "role": "Committee Advisor",
-    "from": "Franklin Township, NJ",
-    "year": "Graduated",
-    "committee": "Development",
-    "enjoy": "It's a great opportunity to learn a lot and get involved in hands on projects!",
-    "favorite song": "Layla - Eric Clapton",
-    "funfact": "I transferred to Vandy my sophomore year!",
-    "website": "https://www.linkedin.com/in/sneh-r-patel/"
-  },
-
-  {
-    "name": "Alexander Lin",
-    "image": "headshots/Alexander-Lin.jpg",
-    "role": "Member",
-    "from": "Long Island, NY",
-    "year": "Second-Year",
-    "committee": "Operations",
-    "enjoy": "",
-    "favorite song": "",
-    "funfact": "",
-    "website": ""
-  },
-
-  {
-    "name": "Allan Zhang",
-    "image": "headshots/Allan-Zhang.jpg",
-    "role": "Member",
-    "from": "Basking Ridge, NJ",
-    "year": "Second-Year",
-    "committee": "Operations",
-    "enjoy": "Cool people 👍",
-    "favorite song": "Internet Killed the Rockstar - Mod Sun",
-    "funfact": "I eat Chipotle every Wednesday",
-    "website": ""
-  },
-
-  {
-    "name": "Arnav Chahal",
-    "image": "headshots/Arnav-Chahal.jpg",
-    "role": "Member",
-    "from": "Short Hills, NJ",
-    "year": "Second-Year",
-    "committee": "Sponsorship",
-    "enjoy": "I want to build a network of people who are passionate in software engineering.",
-    "favorite song": "Althea - The Grateful Dead",
-    "funfact": "I like to snowboard and play tennis",
-    "website": ""
-  },
-
-  {
-    "name": "Astha Sinha",
-    "image": "headshots/Astha-Sinha.jpg",
-    "role": "Member",
-    "from": ", NY",
-    "year": "Third-Year",
-    "committee": "Marketing",
-    "enjoy": "To get more involved in the CS community and combine my interests in tech and entrepreneurship",
-    "favorite song": "Fire for you - Cannons",
-    "funfact": "I co-founded an athleisure company. Shoutout to @yusthayoga",
-    "website": ""
-  },
-
-  {
-    "name": " Carol He",
-    "image": "headshots/Carol-He.jpg",
-    "role": "Member",
-    "from": ", NY",
-    "year": "Third-Year",
-    "committee": "Development",
-    "enjoy": "I want to help others have a great (and better) experience with VandyHacks like I had these past two years!",
-    "favorite song": "Bubbly - Colbie Caillat",
-    "funfact": "I have been stung by insects with stingers at least 7 times in my life",
-    "website": ""
-  },
-
-  {
-    "name": "Chloe Nixon",
-    "image": "headshots/Chloe-Nixon.jpg",
-    "role": "Member",
-    "from": ", NY",
-    "year": "Third-Year",
-    "committee": "Design",
-    "enjoy": "I love designing, doing projects, and working with others",
-    "favorite song": "City of Lights - The Music Tapes",
-    "funfact": "I got a cease and desists letter when I was 14 for pirating zelda games :(",
-    "website": ""
-  },
-
-  {
-    "name": "Deniz Orbay",
-    "image": "headshots/Deniz-Orbay.jpg",
-    "role": "Member",
-    "from": "Reno, NV",
-    "year": "Third-Year",
-    "committee": "Design",
-    "enjoy": "I love designing, doing projects, and working with others",
-    "favorite song": "City of Lights - The Music Tapes",
-    "funfact": "I got a cease and desists letter when I was 14 for pirating zelda games :(",
-    "website": ""
-  },
-
-  {
-    "name": "Dior Williams",
-    "image": "headshots/Dior-Williams.jpeg",
-    "role": "Member",
-    "from": "Hudson Valley, NY",
-    "year": "Second-Year",
-    "committee": "Sponsorship",
-    "enjoy": "I want to start collaborating with the cs/engineering community on campus as I begin to add data science curriculum into my business-focused Vandy experience.",
-    "favorite song": "Binz — Solange",
-    "funfact": "I’m training for a marathon",
-    "website": ""
-  },
-
-  {
-    "name": "Elliot Boualaphanh",
-    "image": "headshots/Elliot-Boualaphanh.jpg",
-    "role": "Member",
-    "from": "Nolensville, TN",
-    "year": "Third-Year",
-    "committee": "Sponsorship",
-    "enjoy": "The opportunity to collaborate on a large project and network with my peers.",
-    "favorite song": "Cry For Me - Twice",
-    "funfact": "Both of my elbows can hyper extend. ",
-    "website": ""
-  }, 
-
-  {
-    "name": "Franklin Hu",
-    "image": "headshots/Franklin-Hu.jpeg",
-    "role": "Director",
-    "from": "Madison, WI",
-    "year": "Second-Year",
-    "committee": "Operations",
-    "enjoy": "Best community on campus fo sho",
-    "favorite song": "Hey Ya! - Outkast",
-    "funfact": "My favorite animals are red pandas",
-    "website": ""
-  },
-
-  {
-    "name": "Gabriel Dong",
-    "image": "headshots/Gabriel-Dong.jpg",
-    "role": "Member",
-    "from": "New York, NY",
-    "year": "Second-Year",
-    "committee": "Development",
-    "enjoy": "Very fun community!",
-    "favorite song": "Fake Love - Drake",
-    "funfact": "I like to play volleyball",
-    "website": ""
-  },
-
-  {
-    "name": "Jacob Lurie",
-    "image": "headshots/Jacob-Lurie.JPG",
-    "role": "Member",
-    "from": "Long Island, NY",
-    "year": "Fourth-Year",
-    "committee": "Development",
-    "enjoy": "Meet new people in CS",
-    "favorite song": "up again - mike.",
-    "funfact": "I’m a transfer student!",
-    "website": ""
-  },
-
-  {
-    "name": "Joanna Yi",
-    "image": "headshots/Joanna-Yi.jpg",
-    "role": "Member",
-    "from": "Las Vegas, NV",
-    "year": "Third-Year",
-    "committee": "Sponsorship",
-    "enjoy": "To build a community where anyone can come to express their creativity and intelligence.",
-    "favorite song": "007 - Tabber, Syd",
-    "funfact": "I think ranch is the superior condiment.",
-    "website": ""
-  },
-  
-  {
-    "name": "Lisa Liu",
-    "image": "headshots/Lisa-Liu.jpeg",
-    "role": "Member",
-    "from": "Huston, TX",
-    "year": "Third-Year",
-    "committee": "Development",
-    "enjoy": "",
-    "favorite song": "Little Freak - Harry Styles",
-    "funfact": "",
-    "website": ""
-  },
-
-  {
-    "name": "Michael Taleb",
-    "image": "headshots/Michael-Taleb.jpg",
-    "role": "Member",
-    "from": "Lebanon",
-    "year": "Second-Year",
-    "committee": "Marketing",
-    "enjoy": "Network and collaborate in CS field",
-    "favorite song": "cherry - lana",
-    "funfact": "I like drawing eyes :)",
-    "website": ""
-  },
-
-  {
-    "name": "Phoebe Yu",
-    "image": "headshots/Phoebe-Yu.jpg",
-    "role": "Member",
-    "from": "Vancouver, Canada",
-    "year": "Third-Year",
-    "committee": "Design",
-    "enjoy": "The community and opportunities for growth!",
-    "favorite song": "Vibin’ Out - FKJ",
-    "funfact": "I do Brazilian Jiu Jitsu",
-    "website": ""
-  },
-
-  {
-    "name": "Rachael McCann",
-    "image": "headshots/Rachael-McCann.JPG",
-    "role": "Member",
-    "from": "Pittsburgh, PA",
-    "year": "Second-Year",
-    "committee": "Content",
-    "enjoy": "To be apart of a community that makes CS fun and easy to learn!",
-    "favorite song": "Pursuit of Happiness - Kid Cudi",
-    "funfact": "I love making pottery!",
-    "website": ""
-  },
-
-  {
-    "name": "Rohan Rashingkar",
-    "image": "headshots/Rohan-Rashingkar.jpg",
-    "role": "Director",
-    "from": "Sunnyvale, CA",
-    "year": "Second-Year",
-    "committee": "Hacker Experience",
-    "enjoy": "The people are awesome!",
-    "favorite song": "Anna Sun - WALK THE MOON",
-    "funfact": "I used to run a sports podcast and got noticed by the Memphis Grizzlies",
-    "website": ""
-  },
-  
-  {
-    "name": "Sarah Sun",
-    "image": "headshots/Sarah-Sun.jpg",
-    "role": "Member",
-    "from": "St.Louis, MO",
-    "year": "Third-Year",
-    "committee": "Design",
-    "enjoy": "To be a part of a great, harworking team!",
-    "favorite song": "Dancing in the Rain - Rad Museum",
-    "funfact": "I’m in Confidance and VUPointe",
-    "website": ""
-  },
-
-  {
-    "name": "Shansita (Sana) Sharma",
-    "image": "headshots/Shansita-Sharma.jpg",
-    "role": "Member",
-    "from": ", NY",
-    "year": "Second-Year",
-    "committee": "Development",
-    "enjoy": "For the community and to have fun while collaborating in CS",
-    "favorite song": "Dare You To Move - Switchfoot",
-    "funfact": "I used to think everyone is born with a limited amount of voice and that you can run out of it at some point.",
-    "website": ""
-  },
-
-  {
-    "name": "Stephanie Ting",
-    "image": "headshots/Stephanie-Ting.jpeg",
-    "role": "Member",
-    "from": "Nashville, TN",
-    "year": "Third-Year",
-    "committee": "Hacker Experience",
-    "enjoy": "I want to plan a super fun and inclusive hackathon for everyone to enjoy :)",
-    "favorite song": "Waterfalls Coming Out Your Mouth - Glass Animals",
-    "funfact": "I am allergic to cantaloupe and honeydew",
-    "website": ""
-  },
-
-  {
-    "name": "Tae Kim",
-    "image": "headshots/Tae-Kim.jpeg",
-    "role": "Member",
-    "from": "Seattle, WA",
-    "year": "Second-Year",
-    "committee": "Marketing",
-    "enjoy": "The opportunity to expand and shape one of Vanderbilt’s largest Engineering/CS event.",
-    "favorite song": "One Kiss - Calvin Harris, Dua Lipa",
-    "funfact": "I used to play football and baseball",
-    "website": ""
-  },
-
-  {
-    "name": "Tamara Regalado Quiroz",
-    "image": "headshots/Tamara-Regalado-Quiroz.jpg",
-    "role": "Member",
-    "from": "Forth Worth, TX",
-    "year": "Second-Year",
-    "committee": "Design",
-    "enjoy": "To continue continue expanding the VandyHack’s outreach and make an impact beyond the CS community",
-    "favorite song": "Melancholy Hill - Gorillaz",
-    "funfact": "I love building puzzles",
-    "website": ""
-  },
-
-  {
-    "name": "Trisha Mazumdar",
-    "image": "headshots/Trisha-Mazumdar.jpg",
-    "role": "Member",
-    "from": "Brentwood, TN",
-    "year": "Third-Year",
-    "committee": "Hacker Experience",
-    "enjoy": "I love planning events and want to make the next hackathon super fun in terms of community bonding!",
-    "favorite song": "Retrograde - James Blake",
-    "funfact": "I hate strawberries",
-    "website": ""
-  },
-
-  {
-    "name": "Alexa Reid",
-    "image": "headshots/Alexa-Reid.jpg",
-    "role": "Member",
-    "from": "Atlanta, GA",
-    "year": "Second-Year",
-    "committee": "Development",
-    "enjoy": "I want to challenge myself and do something new",
-    "favorite song": "Like a Tattoo - Sade",
-    "funfact": "I like learning languages",
-    "website": ""
-  },
-
-  {
-    "name": "Vidhula Oviya Vasanthan",
-    "image": "headshots/Vidhula-Oviya-Vasanthan.jpg",
-    "role": "Member",
-    "from": "Mt Juliet, TN / Chennai, India",
-    "year": "Second-Year",
-    "committee": "Marketing",
-    "enjoy": " I love the community, and I feel like I can make a difference by being in VandyHacks.",
-    "favorite song": "Unravel - TK",
-    "funfact": "I love oil painting",
-    "website": ""
-  }, 
-
-  {
-    "name": "Jiashu (Harry) Huang",
-    "image": "headshots/Jiashu-Huang.JPG",
-    "role": "Member",
-    "from": "Shenzhen, China",
-    "year": "Third-Year",
-    "committee": "Development",
-    "enjoy": "For Zi",
-    "favorite song": "The Disease called love - Mafumafu",
-    "funfact": "",
-    "website": ""
-  },
-
-  {
-    "name": "Daphney Talekar",
-    "image": "headshots/Daphney-Talekar.jpg",
-    "role": "Member",
-    "from": "Lilburn, GA",
-    "year": "Second-Year",
-    "committee": "Sponsorship",
-    "enjoy": "I want to be a part of passionate and collaborative community in CS",
-    "favorite song": "Fake Plastic Trees - Radiohead",
-    "funfact": "I’ve met Quavo",
-    "website": ""
-  }
+{
+"name": "Chloe Nixon",
+"year": "Junior",
+"role": "President",
+"committee": "",
+"from": "Reno Nevada",
+"image": "headshots/Chloe-Nixon.jpg",
+"favorite song": "City of Lights - The Music Tapes",
+"funfact": "I got a cease and desists letter when I was 14 for pirating zelda games :(",
+"enjoy": "I love designing, doing projects, and working with others"
+},
+{
+"name": "Aryan Garg",
+"year": "Sophomore",
+"role": "President",
+"committee": "",
+"from": "Cupertino Ca",
+"image": "headshots/Aryan-Garg.jpg",
+"favorite song": "Running in the 90s",
+"funfact": "Vandy spelled backwards is ydanv.",
+"enjoy": ""
+},
+{
+"name": "Kyle Burgess",
+"year": "Junior",
+"role": "Director",
+"committee": "Content",
+"from": "Charlotte NC",
+"image": "headshots/Kyle-Burgess.jpg",
+"favorite song": "Head Over Heels - Tears for Fears",
+"funfact": "Winter Wondryland should’ve won the theme competition",
+"enjoy": "Everyone is so nice 😊"
+},
+{
+"name": "Richard Song",
+"year": "Junior",
+"role": "Content",
+"committee": "Member",
+"from": "",
+"image": "headshots/Richard-Song.",
+"favorite song": "",
+"funfact": "",
+"enjoy": ""
+},
+{
+"name": "Nisala Kalupahana",
+"year": "Senior",
+"role": "Content",
+"committee": "Member",
+"from": "Portland Oregon",
+"image": "headshots/Nisala-Kalupahana.jpg",
+"favorite song": "Night Owl — Dizzy Spells",
+"funfact": "I’m allergic to cockroaches :(",
+"enjoy": "I joined VH to do CS stuff with my friends!"
+},
+{
+"name": "Sam Sliman",
+"year": "Senior",
+"role": "Content",
+"committee": "Member",
+"from": "Tupelo MS",
+"image": "headshots/Sam-Sliman.jpg",
+"favorite song": "“All Fish Go To Heaven” by Loud Noise",
+"funfact": "I’m dropping a new album soon - be on the lookout for “Where is Davis?”",
+"enjoy": "I have a secret crush on Nisala 😳"
+},
+{
+"name": "Aadi Bajpai",
+"year": "Senior",
+"role": "Committee Advisor",
+"committee": "Content",
+"from": "Kanpur India",
+"image": "headshots/Aadi-Bajpai.jpg",
+"favorite song": "my ex’s best friend by machine gun kelly",
+"funfact": "we did a competition once with first place prize being $25k. I came second.",
+"enjoy": "nice to mentor young ppl and make meetings fun"
+},
+{
+"name": "Nathanael Tesfaye",
+"year": "Sophomore",
+"role": "Content",
+"committee": "Member",
+"from": "Silver Spring MD",
+"image": "headshots/Nathanael-Tesfaye.jpg",
+"favorite song": "Jungle - Drake",
+"funfact": "Was very close to being born in Japan!",
+"enjoy": "coolest org on campus!"
+},
+{
+"name": "Jacqueline Frist",
+"year": "Junior",
+"role": "Content",
+"committee": "Member",
+"from": "Nashville TN",
+"image": "headshots/Jacqueline-Frist.jpg",
+"favorite song": "Build Me Up Buttercup by the Foundations",
+"funfact": "I am VP of the Vanderbilt climbing team!",
+"enjoy": "To meet new people and be a part of a super smart community!"
+},
+{
+"name": "Jesse Zhong",
+"year": "Sophomore",
+"role": "Content",
+"committee": "Member",
+"from": "San Diego CA",
+"image": "headshots/Jesse-Zhong.jpg",
+"favorite song": "American - Lana Del Rey",
+"funfact": "I like green leaves (basil)",
+"enjoy": "Meet new people and learn new things (that aren’t just CS)"
+},
+{
+"name": "Rachael McCann",
+"year": "Sophomore",
+"role": "Content",
+"committee": "Member",
+"from": "Pittsburgh PA",
+"image": "headshots/Rachael-McCann.jpg",
+"favorite song": "Pursuit of Happiness - Kid Cudi",
+"funfact": "I love making pottery!",
+"enjoy": "To be apart of a community that makes CS fun and easy to learn!"
+},
+{
+"name": "Kevin Jin",
+"year": "Senior",
+"role": "Committee Advisor",
+"committee": "Content",
+"from": "Davidson NC",
+"image": "headshots/Kevin-Jin.png",
+"favorite song": "“I’m Content President” by Nisala",
+"funfact": "I know how to code",
+"enjoy": "Great community and super positive impact as Vandy CS grows!"
+},
+{
+"name": "Patrick Dobranowski",
+"year": "Sophomore",
+"role": "Content",
+"committee": "Member",
+"from": "Castle Rock CO",
+"image": "headshots/Patrick-Dobranowski.jpg",
+"favorite song": "Professor Hemingway's lecture on the factory pattern",
+"funfact": "I like fun",
+"enjoy": "People are cool :)"
+},
+{
+"name": "William Wu",
+"year": "Graduate Student, Senior",
+"role": "Senior Advisor",
+"committee": "Design, Marketing",
+"from": "Beijing China",
+"image": "headshots/William-Wu.jpeg",
+"favorite song": "Viva la vida - Coldplay",
+"funfact": "I once rode bike for 600 mile across China",
+"enjoy": "The active and energetic community"
+},
+{
+"name": "Emilee",
+"year": "Sophomore",
+"role": "Design",
+"committee": "Member",
+"from": "Houston TX",
+"image": "headshots/Emilee.",
+"favorite song": "Wicked Games- The Weeknd",
+"funfact": "I had cops talk to me for accidentally entering someones apartment",
+"enjoy": "Had a great experience at the ‘24 hackathon "
+},
+{
+"name": "Emma Chang",
+"year": "Sophomore",
+"role": "Design",
+"committee": "Member",
+"from": "SoCal",
+"image": "headshots/Emma-Chang.jpeg",
+"favorite song": "Talk Too Much -COIN",
+"funfact": "i can make a good minecraft potion drinking noise",
+"enjoy": "cool cs people cool cs swag"
+},
+{
+"name": "Alison Zou",
+"year": "Freshman",
+"role": "Director",
+"committee": "Design, Marketing",
+"from": "Dallas TX",
+"image": "headshots/Alison-Zou.png",
+"favorite song": "Are you bored yet? - Wallows ft. Clairo",
+"funfact": "I slipped at a spa and got a concussion",
+"enjoy": "have fun and design "
+},
+{
+"name": "Alex Tomack",
+"year": "Junior",
+"role": "Design",
+"committee": "Member",
+"from": "Pittsburgh PA",
+"image": "headshots/Alex-Tomack.jpg",
+"favorite song": "Anything by Michael Jackson ",
+"funfact": "I was taught by monks for a year",
+"enjoy": "Sam Sliman"
+},
+{
+"name": "Tamara Regalado Quiroz",
+"year": "Sophomore",
+"role": "Design",
+"committee": "Member",
+"from": "Forth Worth Tx",
+"image": "headshots/Tamara-Regalado-Quiroz.png",
+"favorite song": "Melancholy Hill - Gorillaz",
+"funfact": "I love building puzzles",
+"enjoy": "To continue continue expanding the VandyHack’s outreach and make an impact beyond the CS community"
+},
+{
+"name": "Carol He",
+"year": "Junior",
+"role": "Dev",
+"committee": "Member",
+"from": "Marion AL",
+"image": "headshots/Carol-He.jpg",
+"favorite song": "Bubbly - Colbie Caillat",
+"funfact": "I have been stung by insects with stingers at least 7 times in my life",
+"enjoy": "I want to help others have a great (and better) experience with VandyHacks like I had these past two years!"
+},
+{
+"name": "Lisa Liu",
+"year": "Junior",
+"role": "Director",
+"committee": "Dev",
+"from": "Houston TX",
+"image": "headshots/Lisa-Liu.png",
+"favorite song": "Almost - Hozier",
+"funfact": "My go-to order at a coffee shop is a decaf americano",
+"enjoy": "Cool people who make cool things"
+},
+{
+"name": "Abi Kothapalli",
+"year": "Junior",
+"role": "Dev",
+"committee": "Member",
+"from": "Kansas City KS",
+"image": "headshots/Abi-Kothapalli.png",
+"favorite song": "Today – Cordae",
+"funfact": "I know the first 3 digits of pi",
+"enjoy": "The amazing community and the opportunity to build cool things!"
+},
+{
+"name": "Zi Teoh",
+"year": "Junior",
+"role": "Senior Advisor",
+"committee": "Dev",
+"from": "Malaysia",
+"image": "headshots/Zi-Teoh.jpeg",
+"favorite song": "Kill Yourself by Bo Burnham",
+"funfact": "I once went to the ER because of allergic reaction to advil (now i know)",
+"enjoy": "to get unlimited, custom-made stickers for free"
+},
+{
+"name": "John Lee",
+"year": "Sophomore",
+"role": "Dev",
+"committee": "Member",
+"from": "Atlanta Georgia",
+"image": "headshots/John-Lee.png",
+"favorite song": "Mr. Nice Watch - J Cole",
+"funfact": "Fav foods are crunchy pb and oranges",
+"enjoy": "Very fun community"
+},
+{
+"name": "Helen Wu",
+"year": "Freshman",
+"role": "Dev",
+"committee": "Member",
+"from": "Cary NC",
+"image": "headshots/Helen-Wu.jpg",
+"favorite song": "What’s Inside - Waitress",
+"funfact": "I’m weird",
+"enjoy": "Yes"
+},
+{
+"name": "Stanley Zheng",
+"year": "Freshman",
+"role": "Dev",
+"committee": "Member",
+"from": "Brooklyn NY",
+"image": "headshots/Stanley-Zheng.jpg",
+"favorite song": "Sofia - Clario",
+"funfact": "I love playing ultimate frisbee!",
+"enjoy": "Be a part of something bigger than me"
+},
+{
+"name": "Yifei Fang",
+"year": "Freshman",
+"role": "Dev",
+"committee": "Member",
+"from": "Houston TX",
+"image": "headshots/Yifei-Fang.jpeg",
+"favorite song": "All Too Well - Taylor Swift",
+"funfact": "I'm on the vandy table tennis travel team",
+"enjoy": "Give others an amazing time with vandyhacks"
+},
+{
+"name": "Jiheng Henry Li",
+"year": "Freshman",
+"role": "Dev",
+"committee": "Member",
+"from": "Korla Xinjiang China",
+"image": "headshots/Jiheng-Henry-Li.jpg",
+"favorite song": "Vltava - Smetana",
+"funfact": "Art History",
+"enjoy": "have fun together"
+},
+{
+"name": "Alexa Reid",
+"year": "Sophomore",
+"role": "Dev",
+"committee": "Member",
+"from": "Atlanta Georgia",
+"image": "headshots/Alexa-Reid.jpg",
+"favorite song": "Like a Tattoo - Sade",
+"funfact": "I like learning languages ^^",
+"enjoy": "I want to challenge myself and do something new!"
+},
+{
+"name": "Jiashu Harry Huang",
+"year": "Junior",
+"role": "Dev",
+"committee": "Member",
+"from": "Shenzhen China",
+"image": "headshots/Jiashu-Harry-Huang.jpg",
+"favorite song": "The Disease called love - Mafumafu",
+"funfact": "",
+"enjoy": "For Zi"
+},
+{
+"name": "Jacob Lurie",
+"year": "Senior",
+"role": "Dev",
+"committee": "Member",
+"from": "Long Island NY",
+"image": "headshots/Jacob-Lurie.jpg",
+"favorite song": "up again - mike.",
+"funfact": "I’m a transfer student!",
+"enjoy": "Meet new people in CS"
+},
+{
+"name": "Shansita Sana Sharma",
+"year": "Sophomore",
+"role": "Dev",
+"committee": "Member",
+"from": "Gurgaon India",
+"image": "headshots/Shansita-Sana-Sharma.jpg",
+"favorite song": "Dare You To Move - Switchfoot",
+"funfact": "I used to think everyone is born with a limited amount of voice and that you can run out of it at some point.",
+"enjoy": "For the community and to have fun while collaborating in CS"
+},
+{
+"name": "Gabriel Dong",
+"year": "Sophomore",
+"role": "Dev",
+"committee": "Member",
+"from": "Metro NYC",
+"image": "headshots/Gabriel-Dong.png",
+"favorite song": "Fake Love - Drake",
+"funfact": "I like to play volleyball",
+"enjoy": "Very fun community!"
+},
+{
+"name": "Akash Munagala",
+"year": "Senior",
+"role": "Dev",
+"committee": "Member",
+"from": "Fremont Califronia",
+"image": "headshots/Akash-Munagala.",
+"favorite song": "",
+"funfact": "",
+"enjoy": ""
+},
+{
+"name": "Stephanie Ting",
+"year": "Senior",
+"role": "HE",
+"committee": "Member",
+"from": "Nashville TN",
+"image": "headshots/Stephanie-Ting.",
+"favorite song": "Waterfalls Coming Out Your Mouth - Glass Animals",
+"funfact": "I am allergic to cantaloupe and honeydew",
+"enjoy": "I want to plan a super fun and inclusive hackathon for everyone to enjoy :)"
+},
+{
+"name": "Clara Wang",
+"year": "Sophomore",
+"role": "HE",
+"committee": "Member",
+"from": "China, Santa BarbaraCA",
+"image": "headshots/Clara-Wang.jpg",
+"favorite song": "WATERFALL-B.I",
+"funfact": "I hate carrots and I am allergic to mango peel",
+"enjoy": "love planning interesting events "
+},
+{
+"name": "Jimmy Baek",
+"year": "Sophomore",
+"role": "HE",
+"committee": "Member",
+"from": "Seoul South Korea",
+"image": "headshots/Jimmy-Baek.jpeg",
+"favorite song": "Del Water Gap - NFU",
+"funfact": "I have a twin brother and perfect pitch",
+"enjoy": "Love to share a fun time with others :)"
+},
+{
+"name": "Vivian Ma",
+"year": "Freshman",
+"role": "Director",
+"committee": "HE",
+"from": "Clarksville TN",
+"image": "headshots/Vivian-Ma.jpg",
+"favorite song": "The Legend of the Wind - Joe Hisaishi",
+"funfact": "Some of my hobbies include playing the piano, skiing, and badminton!",
+"enjoy": "An amazing community of highly motivated individuals who share a love for innovation and tech!"
+},
+{
+"name": "Enya Bullard",
+"year": "Freshman",
+"role": "HE",
+"committee": "Member",
+"from": "Franklin TN",
+"image": "headshots/Enya-Bullard.jpg",
+"favorite song": "Dark Red - Steve Lacy",
+"funfact": "I have a degree from Wild Chicken University",
+"enjoy": "I love fun events!"
+},
+{
+"name": "Rohan Rashingkar",
+"year": "Sophomore",
+"role": "Senior Advisor",
+"committee": "HE",
+"from": "Sunnyvale CA",
+"image": "headshots/Rohan-Rashingkar.jpg",
+"favorite song": "Anna Sun - WALK THE MOON",
+"funfact": "I used to run a sports podcast and got noticed by the Memphis Grizzlies",
+"enjoy": "The people are awesome!"
+},
+{
+"name": "Mohamed Bakry",
+"year": "",
+"role": "HE",
+"committee": "Member",
+"from": "",
+"image": "headshots/Mohamed-Bakry.",
+"favorite song": "",
+"funfact": "",
+"enjoy": ""
+},
+{
+"name": "Natalie Dimov",
+"year": "Junior",
+"role": "HE",
+"committee": "Member",
+"from": "Chicago (Suburbs) Illinois, Des Plaines Illinois",
+"image": "headshots/Natalie-Dimov.",
+"favorite song": "",
+"funfact": "",
+"enjoy": ""
+},
+{
+"name": "Vidhula Oviya Vasanthan",
+"year": "Sophomore",
+"role": "Marketing",
+"committee": "Member",
+"from": "(Mt.Juliet Tennessee) Chennai India",
+"image": "headshots/Vidhula-Oviya-Vasanthan.",
+"favorite song": "Kotha Raja",
+"funfact": "",
+"enjoy": ""
+},
+{
+"name": "Karolina Groszewska",
+"year": "Senior",
+"role": "Senior Advisor",
+"committee": "Marketing",
+"from": "Arlington Heights IL",
+"image": "headshots/Karolina-Groszewska.png",
+"favorite song": "Zitti e Buoni – Måneskin",
+"funfact": "I’m a hackathon coach and workshop streamer at MLH!",
+"enjoy": "Making tech accessible and fun for all, one event at a time!"
+},
+{
+"name": "Raivath Mallela",
+"year": "Freshman",
+"role": "Marketing",
+"committee": "Member",
+"from": "Hyderabad India",
+"image": "headshots/Raivath-Mallela.",
+"favorite song": "Peniviti - SS Thaman",
+"funfact": "",
+"enjoy": ""
+},
+{
+"name": "Sydney Patel",
+"year": "Sophomore",
+"role": "Marketing",
+"committee": "Member",
+"from": "Boston MA",
+"image": "headshots/Sydney-Patel.png",
+"favorite song": "The Bomb! - The Bucketheads",
+"funfact": "Dancing with the Stars is my roman empire",
+"enjoy": "Join an awesome community!"
+},
+{
+"name": "Helena Sena",
+"year": "Freshman",
+"role": "Marketing",
+"committee": "Member",
+"from": "Boston MA",
+"image": "headshots/Helena-Sena.jpg",
+"favorite song": "Dunno - Mac Miller",
+"funfact": "I love trader joes takis with vanilla ice cream",
+"enjoy": "to meet new people!"
+},
+{
+"name": "Michelle Xu",
+"year": "Freshman",
+"role": "Marketing",
+"committee": "Member",
+"from": "Toronto Canada",
+"image": "headshots/Michelle-Xu.png",
+"favorite song": "tokyo - RM",
+"funfact": "I eat pizza from the crust",
+"enjoy": "the community"
+},
+{
+"name": "Astha Sinha",
+"year": "Junior",
+"role": "Marketing",
+"committee": "Member",
+"from": "Chattanooga TN",
+"image": "headshots/Astha-Sinha.jpg",
+"favorite song": "Fire for you - Cannons",
+"funfact": "I co-founded an athleisure company. Shoutout to @yusthayoga",
+"enjoy": "To get more involved in the CS community and combine my interests in tech and entrepreneurship"
+},
+{
+"name": "Hannah Wang",
+"year": "Sophomore",
+"role": "Operations",
+"committee": "Member",
+"from": "Seattle WA",
+"image": "headshots/Hannah-Wang.jpg",
+"favorite song": "Tout Oublier - Angele",
+"funfact": "",
+"enjoy": "Community"
+},
+{
+"name": "Md Mashiur Rahman Khan",
+"year": "Freshman",
+"role": "Operations",
+"committee": "Member",
+"from": "Bangladesh",
+"image": "headshots/Md-Mashiur-Rahman-Khan.jpeg",
+"favorite song": "Without You, Avicii",
+"funfact": "My life is a soccer game.",
+"enjoy": "Just wanted a community of good people who share my interests."
+},
+{
+"name": "Jason Yang",
+"year": "Junior",
+"role": "Operations",
+"committee": "Member",
+"from": "Qingdao China",
+"image": "headshots/Jason-Yang.jpg",
+"favorite song": "Digital Love - Daft Punk",
+"funfact": "I got baptized when I was in high school",
+"enjoy": "Meeting new friends"
+},
+{
+"name": "Yeabsera Ababu",
+"year": "Freshman",
+"role": "Operations",
+"committee": "Member",
+"from": "Fairfax Virginia",
+"image": "headshots/Yeabsera-Ababu.jpg",
+"favorite song": "Diamonds ‘n’ Pearls",
+"funfact": "I have met/talked with jeff Bezos",
+"enjoy": "wanted to have a better network of like minded people and like to mange stuff "
+},
+{
+"name": "Subha Mostafiz",
+"year": "Sophomore",
+"role": "Director",
+"committee": "Operations",
+"from": "Bangladesh",
+"image": "headshots/Subha-Mostafiz.jpeg",
+"favorite song": "Every Breath You Take - The Police",
+"funfact": "I can touch my nose with my tongue",
+"enjoy": "Has coolest Hackathon "
+},
+{
+"name": "Evelyn Zhang",
+"year": "Sophomore",
+"role": "Operations",
+"committee": "Member",
+"from": "Cleveland OH",
+"image": "headshots/Evelyn-Zhang.",
+"favorite song": "",
+"funfact": "I have a pet turtle",
+"enjoy": "Everyone in VH seems super cool!"
+},
+{
+"name": "Alexander Lin",
+"year": "Sophomore",
+"role": "Operations",
+"committee": "Member",
+"from": "Long Island NY",
+"image": "headshots/Alexander-Lin.png",
+"favorite song": "",
+"funfact": "",
+"enjoy": ""
+},
+{
+"name": "Allan Zhang",
+"year": "Sophomore",
+"role": "Operations",
+"committee": "Member",
+"from": "Basking Ridge NJ",
+"image": "headshots/Allan-Zhang.jpg",
+"favorite song": "Internet Killed the Rockstar - Mod Sun",
+"funfact": "I eat Chipotle every Wednesday",
+"enjoy": "Cool people 👍"
+},
+{
+"name": "Franklin Hu",
+"year": "Sophomore",
+"role": "Committee Advisor",
+"committee": "Operations",
+"from": "Madison WI",
+"image": "headshots/Franklin-Hu.jpeg",
+"favorite song": "Sex, Drugs, Etc - Beach Weather",
+"funfact": "My favorite animals are red pandas",
+"enjoy": "Best community on campus fo sho"
+},
+{
+"name": "Daphney Talekar",
+"year": "Sophomore",
+"role": "Sponsorship",
+"committee": "Member",
+"from": "Lilburn Georgia",
+"image": "headshots/Daphney-Talekar.jpg",
+"favorite song": "Fake Plastic Trees - Radiohead",
+"funfact": "I’ve met Quavo",
+"enjoy": "I want to be a part of passionate and collaborative community in CS"
+},
+{
+"name": "Jack Long",
+"year": "Senior",
+"role": "Senior Advisor",
+"committee": "Sponsorship",
+"from": "Shanghai China",
+"image": "headshots/Jack-Long.jpeg",
+"favorite song": "Chemtrails over the country club - Lana Del Rey",
+"funfact": "I almost got lost in the yosemite mountains once.",
+"enjoy": "Everyone coming together out of sheer passion"
+},
+{
+"name": "Tapan Sidhwani",
+"year": "Freshman",
+"role": "Sponsorship",
+"committee": "Member",
+"from": "Edgemont NY",
+"image": "headshots/Tapan-Sidhwani.jpg",
+"favorite song": "November Rain - Guns N’ Roses",
+"funfact": "memorized the first 100 digits of pi in 5 grade for no reason",
+"enjoy": "Great community to learn and gain experience"
+},
+{
+"name": "Eileen Luo",
+"year": "Freshman",
+"role": "Sponsorship",
+"committee": "Member",
+"from": "Rockville MD",
+"image": "headshots/Eileen-Luo.png",
+"favorite song": "Hold On - Chord Overstreet",
+"funfact": "I love Costco bagels",
+"enjoy": "Great experience at the hackathon last year, which I wanted to create for other people"
+},
+{
+"name": "Janice Chung",
+"year": "Freshman",
+"role": "Sponsorship",
+"committee": "Member",
+"from": "Fort Lee NJ",
+"image": "headshots/Janice-Chung.jpg",
+"favorite song": "circles - mac miller",
+"funfact": "i can recite the whole hamilton soundtrack",
+"enjoy": "incredible community + incredible opportunity"
+},
+{
+"name": "Elliot Boualaphanh",
+"year": "Junior",
+"role": "Director",
+"committee": "Sponsorship",
+"from": "Nolensville Tennessee",
+"image": "headshots/Elliot-Boualaphanh.jpg",
+"favorite song": "Cry For Me - Twice",
+"funfact": "Both of my elbows can hyper extend.",
+"enjoy": "The opportunity to collaborate on a large project and network with my peers."
+},
+{
+"name": "Arnav Chahal",
+"year": "Sophomore",
+"role": "Director",
+"committee": "Sponsorship",
+"from": "Short Hills NJ",
+"image": "headshots/Arnav-Chahal.jpg",
+"favorite song": "Althea - The Grateful Dead",
+"funfact": "I like to snowboard and play tennis",
+"enjoy": "I want to build a network of people who are passionate in software engineering."
+},
+{
+"name": "Alex Oh",
+"year": "Junior",
+"role": "Senior Advisor",
+"committee": "",
+"from": "Columbia MD",
+"image": "headshots/Alex-Oh.jpg",
+"favorite song": "Brave Shine - Aimer",
+"funfact": "I lowkey was a guitar hero prodigy when I was 6",
+"enjoy": "f"
+},
+{
+"name": "Jane Sun",
+"year": "Junior",
+"role": "",
+"committee": "",
+"from": "Beijing China",
+"image": "headshots/Jane-Sun.jpeg",
+"favorite song": "Don’t Stop Me Now - Queen",
+"funfact": "I fell off my bike and went to the ER, then got the bike stolen in the same week",
+"enjoy": "have fun!!"
+},
+{
+"name": "Leo Yang",
+"year": "Senior",
+"role": "",
+"committee": "",
+"from": "Kunming China",
+"image": "headshots/Leo-Yang.jpg",
+"favorite song": "One Last Kiss - Hikaru Utada",
+"funfact": "I like walking and exploring places",
+"enjoy": "Cool people to be around with."
+},
+{
+"name": "Haoli Yin",
+"year": "Junior",
+"role": "",
+"committee": "",
+"from": "Houston TX",
+"image": "headshots/Haoli-Yin.png",
+"favorite song": "High School in Jakarta - NIKI",
+"funfact": "I play competitive Tetris",
+"enjoy": "Making money to increase accessibility to CS"
+},
+{
+"name": "Jovian Wang",
+"year": "Senior",
+"role": "",
+"committee": "",
+"from": "San Ramon California",
+"image": "headshots/Jovian-Wang.jpg",
+"favorite song": "No Blueberries - DPR IAN, DPR LIVE, CL",
+"funfact": "I love snowboarding",
+"enjoy": "VandyHacks brings curious minds together and allows people with diverse experiences to work together on something new and fun. It’s a wonderful community and I’m here to do my part!"
+},
+{
+"name": "Joyce Huang",
+"year": "Senior",
+"role": "",
+"committee": "",
+"from": "Atlanta Georgia",
+"image": "headshots/Joyce-Huang.jpg",
+"favorite song": "bluey theme tune - bluey ",
+"funfact": "ive never been bit by a shark 😛I;",
+"enjoy": "i like art "
+},
+{
+"name": "Heena Cho",
+"year": "Junior",
+"role": "",
+"committee": "",
+"from": "Seoul South Korea",
+"image": "headshots/Heena-Cho.jpg",
+"favorite song": "Sober- Childish Gambino",
+"funfact": "I suddenly developed a pork allergy in high school, but it’s gone now.",
+"enjoy": "Collaboration and making things work! "
+},
+{
+"name": "Maya Anderson",
+"year": "Junior",
+"role": "",
+"committee": "",
+"from": "Atlanta Georgia",
+"image": "headshots/Maya-Anderson.jpg",
+"favorite song": "Fireside - Arctic Monkeys",
+"funfact": "Official bee-searcher (bee researcher)",
+"enjoy": "Crazy passionate about community building, event planning, and innovation and VH has the best of all three on campus!"
+},
+{
+"name": "Connie Chen",
+"year": "Senior",
+"role": "",
+"committee": "",
+"from": "St. Louis Missouri",
+"image": "headshots/Connie-Chen.jpeg",
+"favorite song": "“Mine” by Bazzi",
+"funfact": "In my free time, I love to take photos, skateboard, and travel to new places.",
+"enjoy": "I love VH because of the people. Everyone here is so passionate about CS, and is excited to work on initiatives that make an impact on-campus and nationally. "
+},
+{
+"name": "Reed Miller",
+"year": "Junior",
+"role": "",
+"committee": "",
+"from": "Virginia Beach",
+"image": "headshots/Reed-Miller.",
+"favorite song": "Maine - Noah Kahan",
+"funfact": "I worked at a haunted house in high school",
+"enjoy": "I want to meet likeminded people and learn more about networking in the CS industry"
+},
+{
+"name": "Deniz Orbay",
+"year": "Junior",
+"role": "",
+"committee": "",
+"from": "Istanbul Turkey",
+"image": "headshots/Deniz-Orbay.jpg",
+"favorite song": "Time - Pink Floyd",
+"funfact": "I have no food I dislike. I like eating.",
+"enjoy": "To get more involved with the CS community"
+},
+{
+"name": "Jaden Huppert",
+"year": "Sophomore",
+"role": "",
+"committee": "",
+"from": "Las Vegas NV",
+"image": "headshots/Jaden-Huppert.",
+"favorite song": "",
+"funfact": "",
+"enjoy": ""
+},
+{
+"name": "Trisha Mazumdar",
+"year": "Junior",
+"role": "",
+"committee": "",
+"from": "Brentwood TN",
+"image": "headshots/Trisha-Mazumdar.png",
+"favorite song": "Retrograde - James Blake",
+"funfact": "I hate strawberries",
+"enjoy": "I love planning events and want to make the next hackathon super fun in terms of community bonding!"
+},
+{
+"name": "Tae Kim",
+"year": "Junior",
+"role": "",
+"committee": "",
+"from": "Seattle WA",
+"image": "headshots/Tae-Kim.jpeg",
+"favorite song": "One Kiss - Calvin Harris, Dua Lipa",
+"funfact": "I used to play football and baseball",
+"enjoy": "The opportunity to expand and shape one of Vanderbilt’s largest Engineering/CS event."
+},
+{
+"name": "Sarah Sun",
+"year": "Junior",
+"role": "",
+"committee": "",
+"from": "St. Louis Missouri",
+"image": "headshots/Sarah-Sun.jpg",
+"favorite song": "Dancing in the Rain - Rad Museum",
+"funfact": "I’m in Confidance and VUPointe",
+"enjoy": "To be a part of a great, harworking team!"
+},
+{
+"name": "Dior Williams",
+"year": "Sophomore",
+"role": "",
+"committee": "",
+"from": "Hudson Valley New York",
+"image": "headshots/Dior-Williams.jpeg",
+"favorite song": "Binz — Solange",
+"funfact": "I’m training for a marathon",
+"enjoy": "I want to start collaborating with the cs/engineering community on campus as I begin to add data science curriculum into my business-focused Vandy experience."
+},
+{
+"name": "Joanna Yi",
+"year": "Junior",
+"role": "",
+"committee": "",
+"from": "Las Vegas",
+"image": "headshots/Joanna-Yi.jpg",
+"favorite song": "007 - Tabber, Syd",
+"funfact": "I think ranch is the superior condiment.",
+"enjoy": "To build a community where anyone can come to express their creativity and intelligence."
+},
+{
+"name": "Phoebe Yu",
+"year": "Junior",
+"role": "",
+"committee": "",
+"from": "Vancouver Canada",
+"image": "headshots/Phoebe-Yu.jpg",
+"favorite song": "Vibin’ Out - FKJ",
+"funfact": "I do Brazilian Jiu Jitsu",
+"enjoy": "The community and opportunities for growth!"
+},
+{
+"name": "Michael Taleb",
+"year": "Sophomore",
+"role": "",
+"committee": "",
+"from": "Lebanon",
+"image": "headshots/Michael-Taleb.png",
+"favorite song": "cherry - lana",
+"funfact": "I like drawing eyes :)",
+"enjoy": "Network and collaborate in CS field"
+},
+{
+"name": "Claire Yan",
+"year": "Senior",
+"role": "",
+"committee": "",
+"from": "Short Hills NJ",
+"image": "headshots/Claire-Yan.jpeg",
+"favorite song": "No Celestial - Le Sserafim",
+"funfact": "I have a double joint in my left shoulder",
+"enjoy": "Love the VH community & what my committee does :))"
+},
+{
+"name": "Violet Peng",
+"year": "Senior",
+"role": "",
+"committee": "",
+"from": "Los Angeles",
+"image": "headshots/Violet-Peng.jpeg",
+"favorite song": "anything by my little airport",
+"funfact": "ask me about my collection of purple things (growing)",
+"enjoy": ""
+},
+{
+"name": "Sarene Mun",
+"year": "Senior",
+"role": "",
+"committee": "",
+"from": "Queens NY",
+"image": "headshots/Sarene-Mun.jpg",
+"favorite song": "Ba-Da-Ba 2 Mello",
+"funfact": "I already have some gray hair.",
+"enjoy": "I love being able to create fun and accessible activities for the CS community."
+},
+{
+"name": "Adaline Leong",
+"year": "Junior",
+"role": "",
+"committee": "",
+"from": "Malaysia",
+"image": "headshots/Adaline-Leong.png",
+"favorite song": "Violin Concerto in E minor, OP. 64 - Mendelssohn",
+"funfact": "I used to play the viola, violin, and piano",
+"enjoy": "To do cool CS stuff with friends!"
+}
 ]

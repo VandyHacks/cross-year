@@ -15,6 +15,7 @@ const MemberCard = ({ memberData }) => {
           alt={name}
           width={180}
           height={240}
+        
         />
         <div className="overflow-y-auto group-hover:translate-y-[-240px] transition duration-200">
           <div className="pt-2 px-1">
